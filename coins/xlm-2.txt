@@ -1,0 +1,1 @@
+Stellar is a distributed, hybrid blockchain that is fully open-source. It is infrastructure that exists to facilitate cross-asset transfers of value, including payments.

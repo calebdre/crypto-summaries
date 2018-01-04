@@ -1,0 +1,5 @@
+Veritaseum builds blockchain-based, peer-to-peer capital markets as software on a global scale.
+We are taking a wide swath of assets and exposures and placing them on the blockchain as
+autonomous software that seamlessly connects to parties without the need for a 3rd or
+authoritarian interest. Any entity with internet access can participate in these capital markets on
+a peer-to-peer, over-the-counter, and one-on-one basis.

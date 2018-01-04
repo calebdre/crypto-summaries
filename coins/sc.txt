@@ -1,0 +1,8 @@
+Sia is a cloud-based data storage platform for peer-to-peer contracts on a blockchain network
+Sia is a cloud-based data storage platform for peer-to-peer contracts on a blockchain network. The structure of Sia is decentralized, it allow hosts to lease out digital storage space to renters on a peer-to-peer contractual basis. A Proof-of-Storage protocol enforces the storage contracts and maximizes network fidelity
+Sia is a cloud-based data storage platform for peer-to-peer contracts on a blockchain network. The structure of Sia is decentralized, it allow hosts to lease out digital storage space to renters on a peer-to-peer contractual basis. A Proof-of-Storage protocol enforces the storage contracts and maximizes network fidelity. Siacoin (SC) uses a Proof-of-Work system.
+The Sia network officially launched on June 2, 2015.
+Sia is a cloud-based data storage platform for peer-to-peer contracts on a blockchain network
+Sia is a cloud-based data storage platform for peer-to-peer contracts on a blockchain network. The structure of Sia is decentralized, it allow hosts to lease out digital storage space to renters on a peer-to-peer contractual basis. A Proof-of-Storage protocol enforces the storage contracts and maximizes network fidelity
+Sia is a cloud-based data storage platform for peer-to-peer contracts on a blockchain network. The structure of Sia is decentralized, it allow hosts to lease out digital storage space to renters on a peer-to-peer contractual basis. A Proof-of-Storage protocol enforces the storage contracts and maximizes network fidelity. Siacoin (SC) uses a Proof-of-Work system.
+The Sia network officially launched on June 2, 2015.

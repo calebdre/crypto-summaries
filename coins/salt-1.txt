@@ -1,1 +1,1 @@
-SALT tokens are ERC20 tokens that represent membership in the SALT Lending Platform, a platform for loans backed by blockchain assets.
+SALT lets you leverage your blockchain assets to secure cash loans.

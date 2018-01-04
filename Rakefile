@@ -5,7 +5,7 @@ task :generate do
   coins_dir = "coins"
   FileUtils.mkdir_p(coins_dir)
   all_coins = []
-  lenghts = [1, 3, 5]
+  lenghts = [1, 2, 3, 4, 5]
   missing_summaries = []
 
   Coinmarketcap.fetch.each_with_index do |current_coin, index|
@@ -16,7 +16,11 @@ task :generate do
       local_reference_path = File.join("reference", "#{current_coin['symbol']}-#{number_of_sentences}.txt")
 
       if File.exist?(local_reference_path)
-        puts "Using local, reference description of the coin #{current_coin['symbol']} for #{number_of_sentences} sentence(s)"
+        puts "Using local reference description of the coin #{current_coin['symbol']} for #{number_of_sentences} sentence(s)"
+	
+	all_sentences_file = File.join(coins_dir, "#{current_coin['symbol']}.txt".downcase)
+	File.open("#{all_sentences_file}", "a+") { |f| f.write("#{File.read(local_reference_path)}\n") }
+
         output_names.each do |output_name|
           output_file = File.join(coins_dir, "#{output_name}-#{number_of_sentences}.txt".gsub("/", "-").downcase)
           FileUtils.cp(local_reference_path, output_file)
