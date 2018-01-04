@@ -5,7 +5,7 @@ task :generate do
   coins_dir = "coins"
   FileUtils.mkdir_p(coins_dir)
   recorded_coins = Hash.new
-  lenghts = [1, 2, 3, 4, 5]
+  lengths = [1, 2, 3, 4, 5]
   all_coins = Coinmarketcap.fetch
   
   all_coins.each_with_index do |current_coin, index|
@@ -13,7 +13,7 @@ task :generate do
     output_names = [current_coin["name"], current_coin["id"], current_coin["symbol"]]
 
 
-    lenghts.each do |number_of_sentences|
+    lengths.each do |number_of_sentences|
       local_reference_path = File.join("reference", "#{current_coin['symbol']}-#{number_of_sentences}.txt")
 
       if File.exist?(local_reference_path)
