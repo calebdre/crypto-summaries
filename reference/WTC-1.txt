@@ -1,0 +1,1 @@
+Chinese project of a business ecosystem with complete data exchange and absolute information transparency based on the blockchain, IOT (Internet of things) and the application of the RIFD – the identification chip, which is used in various sectors requiring identification (credit cards, mobile payments, magnetic keys, etc.)

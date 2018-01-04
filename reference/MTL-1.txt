@@ -1,0 +1,1 @@
+Metal is a blockchain-based system utilizing Proof-of-Processed-Payments to identify users, rewarding them for converting legacy fiat currency into cryptocurrency. 
