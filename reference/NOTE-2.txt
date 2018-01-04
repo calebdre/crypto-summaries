@@ -1,0 +1,1 @@
+Dnotes is  a scrypt based Proof of Work algorithm crypto currency.  The total number of coins is 500 million, difficulty retargetting takes place using the Kimoto gravity well, the block time is 60 seconds

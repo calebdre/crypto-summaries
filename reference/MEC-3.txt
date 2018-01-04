@@ -1,0 +1,1 @@
+Megacoin (MEC) is a Scrypt based coin.  Difficulty retargets every 22. 5 mins The block target is 2

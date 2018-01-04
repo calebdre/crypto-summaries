@@ -1,0 +1,1 @@
+OldV is a PoW/PoS cryptocurrency based on the Scrypt algorithm and the PoS 3. 0 protocol.  It has an unlimited PoS supply. 

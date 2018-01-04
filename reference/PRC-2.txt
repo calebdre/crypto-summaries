@@ -1,0 +1,1 @@
+ProsperCoin is a PoW cryptocurrency with a modified Scrypt algorithm.  Created to bring to bring prosperity to its users, PRC can be sent to anyone for a small fee and almost instantly

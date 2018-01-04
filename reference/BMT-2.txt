@@ -1,0 +1,1 @@
+BMT is an ERC20 token that <span>will also act as a financial asset and payment instrument on BMChain&#39;s platform. </span>

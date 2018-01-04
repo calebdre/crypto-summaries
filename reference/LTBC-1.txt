@@ -1,0 +1,1 @@
+LTBcoin does not use computational mining

@@ -1,0 +1,1 @@
+Novacoin is a hybrid scrypt Proof-of-Work + Proof-of-Stake based cryptocurrency operating with no central authority via peer-to-peer open source network.  Novacoin has no hard cap except for the 2 billion coin max that has been entered for coding purposes; this can be lifted in the future if needed

@@ -1,0 +1,1 @@
+Solarflarecoin is a Proof of Work cryptocurrency based on the Scrypt hashing algorithm.  The coin has a 18% premine that is to be used as a development fund

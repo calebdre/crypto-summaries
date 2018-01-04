@@ -1,0 +1,1 @@
+As security is a top priority of Sia, all encryption is performed locally; the people storing your files will have no ability to see what you have uploaded.   Not only is every file encrypted separately, every *piece* of every file is encrypted separately, and hosts are not told which pieces are part of the same file

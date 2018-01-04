@@ -1,0 +1,1 @@
+A scrypt alternative crypto currency taking an education angle. 

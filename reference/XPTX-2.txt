@@ -1,0 +1,1 @@
+PlatinumBAR is a hybrid Pow/PoS cryptocurrency based on Quark algorithm. 

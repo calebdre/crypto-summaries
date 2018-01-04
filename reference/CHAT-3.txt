@@ -1,0 +1,1 @@
+ChatCoin is a Proof of Work/Proof of Stake cryptocurrency based on the Scrypt algorithm.  The coin can be mined, staked and earned on <span> a web based Chat </span><span>application where users can chat about trading and see live prices.  Users receive coins for every message

@@ -1,0 +1,1 @@
+Argentum is another fast block time coin at 32 seconds.  It is a scrypt proof of work coin with difficulty retargetting every 250 blocks

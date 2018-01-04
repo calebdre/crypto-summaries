@@ -1,0 +1,1 @@
+<span>The GET token is an ERC-20 token that will be used to purchase event&#39;s tickets. </span>

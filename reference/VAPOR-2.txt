@@ -1,0 +1,1 @@
+Vaporcoin is a Proof of Work/Proof of Stake SHA256 cryptocurrency. 

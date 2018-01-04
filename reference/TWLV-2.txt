@@ -1,0 +1,1 @@
+Twelve is a fast and secure cryptocurrency based on a brand new hashing algorithm- T-inside.  The difficulty retargets each block - the PoS rate is 3%

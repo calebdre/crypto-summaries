@@ -1,0 +1,1 @@
+GlobalToken is a PoW cryptocurrency based on SHA256 algorithm. 

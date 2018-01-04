@@ -1,0 +1,1 @@
+SpainCoin is a scypt-n based coin with difficulty adjustments every block using digishield and a 2 minute block time

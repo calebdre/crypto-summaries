@@ -1,0 +1,1 @@
+SysCoin is a proof of work based alternative crypto currency with a block time of sixty seconds and 2 billion total currency units to be produced

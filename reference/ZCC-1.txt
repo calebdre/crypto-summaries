@@ -1,0 +1,1 @@
+ZCCCoin (ZCC) is forked from YaCoin a hybrid scrypt PoW + PoS based crypto currency and scrypt-jane algorithm with improved parameters

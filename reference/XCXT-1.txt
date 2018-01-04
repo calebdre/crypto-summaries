@@ -1,0 +1,1 @@
+CoinomaX is a PoW/PoS cryptocurrency based on the X11 algorithm

@@ -1,0 +1,1 @@
+Lbry is a content sharing platform where users can define the terms and fees on which they wish to share their content, using Blockchain technology and Bittorrent protocol

@@ -1,0 +1,1 @@
+Blockpay<span> is a cryptocurrency point-of-sale system that allows merchants to easily receive cryptocurrency payments.  </span>Blockpay<span> supports Bitcoin, Bitshares, Ether, Litecoin, Dash, Dogecoin, Steem, and Peercoin

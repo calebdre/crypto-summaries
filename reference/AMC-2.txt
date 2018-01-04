@@ -1,0 +1,1 @@
+AmericanCoin (AMC) is based on Litecoin.  It has a block reward of 100 coins and will have a total of 168 million coins

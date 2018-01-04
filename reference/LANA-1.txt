@@ -1,0 +1,1 @@
+LanaCoin is a Proof of Work/Proof of Stake cryptocurrency using the SHA256D algorithm

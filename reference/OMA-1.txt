@@ -1,0 +1,1 @@
+OmegaCoin is a PoW/PoS hybrid cryptocurrency that uses the x15 encryption algorith and can be sent anywhere almost instantly

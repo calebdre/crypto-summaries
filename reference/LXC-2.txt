@@ -1,0 +1,1 @@
+LibrexCoin (LXC) is an X11 based alternative crypto currency.  The block time is sixty seconds, there was no premine and the proof of stake has a 2% annual interest rate

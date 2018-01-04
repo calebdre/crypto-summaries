@@ -1,0 +1,1 @@
+A Spot (SPT) has super-blocks that are 205 times larger than regular block and contains 10K coins.  There is a small chance (0. 01 percent) to generate super-block every 2 hours.  The coin has 70 seconds between blocks and retargets based on average of the last 21 blocks

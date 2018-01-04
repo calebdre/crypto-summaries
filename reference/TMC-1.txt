@@ -1,0 +1,1 @@
+TimeCoin is an alternative crypto currency based on litecoin and Scrypt

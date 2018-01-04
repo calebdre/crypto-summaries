@@ -1,0 +1,1 @@
+A crypto currency aiming to capitalise on the Greek Crisis.  The coin is limited by a 100 million HNC currency unit cap and is scrypt based with proof of work. 

@@ -1,0 +1,1 @@
+SpainCoin is a scypt-n based coin with difficulty adjustments every block using digishield and a 2 minute block time.  The idea is similar to aurora coin in that it is a national coin - whereby the premine is distributed to all Spanish citizens. 

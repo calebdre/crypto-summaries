@@ -1,0 +1,1 @@
+Votecoin is a PoW cryptocurrency based on Equihash algorithm.  The main focus of Votecoin&#39;s <span>platform are elections and other voting purposes

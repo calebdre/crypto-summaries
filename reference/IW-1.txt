@@ -1,0 +1,1 @@
+iWallet is a X11 Proof of Work/Proof of Stake cryptocurrency that enables almost instant payments to anyone in the world

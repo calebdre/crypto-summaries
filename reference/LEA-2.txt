@@ -1,0 +1,1 @@
+LeaCoin is a SHA256 Proof of Work cryptocurrency.  It has a maximum volume of 2 billion coins and a avg

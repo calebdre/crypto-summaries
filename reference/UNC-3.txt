@@ -1,0 +1,1 @@
+Uncoin was made to support NGO's.  The coin is an X11 proof of Work and proof of stake hybrid with an annualised rate of 2%. 

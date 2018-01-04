@@ -1,1 +1,1 @@
-Ardor is a blockchain-as-a-service platform that will allow people to utilize the blockchain technology of Nxt through the use of child chains.
+A second set of tokens <span>will be given to users according to their NXT holding on the day the first block of Ardor is mined, meaning that the balance won’t be measured and averaged over a period of time, but will instead be given on a 0

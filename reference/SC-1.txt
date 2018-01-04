@@ -1,1 +1,1 @@
-Sia is a cloud-based data storage platform for peer-to-peer contracts on a blockchain network
+As security is a top priority of Sia, all encryption is performed locally; the people storing your files will have no ability to see what you have uploaded

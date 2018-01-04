@@ -1,0 +1,1 @@
+Elements is a Proof of Work cryptocurrency based on the popular X11 Algorithm.  Elemetns works as a universal loyalty program in which merchants/brands mine ELM and can then offer them to clients.  Elements has a <span>25</span>% premine (10% for Development and 15% for Marketing ) and a 50 ELM block reward

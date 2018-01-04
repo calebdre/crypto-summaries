@@ -1,0 +1,1 @@
+Cannacoin (CCN) is another coin trying to associate itself with the narcotics business.  The block reward halves every year and difficulty retargets using the kimoto gravity well.  The coin is scrypt, block time is 60 seconds, and the total supply is capped at 13. 14 million

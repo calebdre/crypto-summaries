@@ -1,0 +1,1 @@
+Xios is a PoW/PoS cryptocurrency based on the Scrypt algorithm.  Xios transactions will be accommodated in block&#39;s size of 40mb

@@ -1,0 +1,1 @@
+CryptoFocus is an X11 algorithm based alternative crypto currency - the aim of the company is to integrate as fast as possible into the next level of intuitive applications with cryptography under the hood

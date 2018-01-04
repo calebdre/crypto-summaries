@@ -1,0 +1,1 @@
+he pow/pod mining algorithm solves among other things one major problem with Bitcoin; the direct relation between inflation, Bitcoin value and mining costs.  In the absolute start-up phase, approximately the first six months, only proof-of-work mining is required

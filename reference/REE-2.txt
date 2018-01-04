@@ -1,0 +1,1 @@
+<span>ReeCoin is a peer-to-peer PoW/PoS hybrid cryptocurrency with increased security and a fast consensus mechanism. </span>

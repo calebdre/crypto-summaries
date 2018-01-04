@@ -1,0 +1,1 @@
+SuperCoin (SUPER) is an X11 PoW/PoS hybrid that has a 90 second block time and a difficulty retargetting each block

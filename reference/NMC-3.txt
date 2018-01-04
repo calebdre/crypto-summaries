@@ -1,0 +1,1 @@
+Namecoin s a cryptocurrency which also acts as an alternative, decentralized DNS, which would avoid domain name censorship by making a new top level domain outside of ICANN control.  The coin is designed to halve every four years with the same cap limit as Bitcoin of 21,000,000. 

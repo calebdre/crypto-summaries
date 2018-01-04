@@ -1,0 +1,1 @@
+TimeCoin is an alternative crypto currency based on litecoin and Scrypt.  The block time is two minutes - difficulty retargets each day and there are 1000 million currency units of TMC available. 

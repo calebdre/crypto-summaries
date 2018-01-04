@@ -1,0 +1,1 @@
+AmericanCoin (AMC) is based on Litecoin.  It has a block reward of 100 coins and will have a total of 168 million coins.  This a pure scrypt proof of work coin with a block time of 150s and a difficulty retargetting every 504 blocks

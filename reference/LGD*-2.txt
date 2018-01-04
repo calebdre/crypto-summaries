@@ -1,0 +1,1 @@
+Legendary Coin is a PoW PoS hybrid.  The Coin has a raft of features such as transaction fee destruction, messaging, with hourly and daily superblocks

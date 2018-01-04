@@ -1,0 +1,1 @@
+KryptKoin (KTK) is a scrypt based PoW PoS hybird altcoin with an initial distribution of 17 million coins.  The transaction fee is 0. 01 KTK, block time is 30 seconds and the PoS rate is 7% annually. 

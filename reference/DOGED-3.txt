@@ -1,0 +1,1 @@
+DogeCoinDark is a scrypt based alternative crypto currency trying to take the popularity of both Dogecoin and Bitcoin and combine it with the anonymous features of Darkcoin.  The block time is 30 seconds and the coin operates through Proof of Work. 

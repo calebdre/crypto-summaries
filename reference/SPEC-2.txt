@@ -1,0 +1,1 @@
+CryptoWatcher is a coin built from Scrypt with a maximum coin supply of 3 billion. 

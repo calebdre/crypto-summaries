@@ -1,0 +1,1 @@
+Terracoin (abbreviated TRC) is a peer to peer decentralized currency based on Bitcoin. Terracoin was launched on the 26th of October 2012 and is an SHA-256 coin with a hard cap of 42 million coins.  The block time is 2 minutes and the block reward is initially set to 20 TRC. 

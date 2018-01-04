@@ -1,0 +1,1 @@
+CapriCoin, or CPC, is a crypto currency based on the X11 algorithm and is both proof of stake and proof of work.  The coin has a large premine of 200,000,000 of the total supply of 208,000,000 - 25% is distributed - 50 million is reserved for staisybit and 99 million reserved for inhouse staking

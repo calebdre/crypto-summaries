@@ -1,0 +1,1 @@
+JaneCoin is a Proof of Work cryptocurrency using the popular Scrypt algorithm.  The coin is designed to create incentives for communication through a socialized platform

@@ -1,0 +1,1 @@
+Dnotes is  a scrypt based Proof of Work algorithm crypto currency

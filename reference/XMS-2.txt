@@ -1,0 +1,1 @@
+A standard alternative crypto currency with a block time of 60 seconds running off X11.  The annual percentage stake is 33%

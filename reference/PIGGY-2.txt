@@ -1,0 +1,1 @@
+Piggy Coin aims to be a started crypto currency to get people interested and understand the concept of crypto currencies.  The block time is 60 seconds and difficulty retargets each block

@@ -1,0 +1,1 @@
+VirtualMiningCoin (VMC) is a scrypt-n adaptive altcoin that has a maximum coin supply of 100 million VMC

@@ -1,0 +1,1 @@
+iBankCoin is a Proof of Work / Proof of Stake cryptocurrency that uses the Scrypt encryption algorithm.  IBANK can be sent anywhere for a small fee and almost intantly

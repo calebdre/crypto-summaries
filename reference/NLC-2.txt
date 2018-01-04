@@ -1,0 +1,1 @@
+<span>NoLimitCoin is a Proof of Work/Proof of Stake hybrid created to be the currency used in the upcoming Fantasy Football game, No Limits Fantasy Sports.  NLC uses SHA256D as an algorithm and has a 2 minute block time

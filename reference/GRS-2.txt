@@ -1,0 +1,1 @@
+Groestlcoin (GRS) is a cryptocurrency utilizing Proof of Work – No ASIC currently exists for Groestl and it is unlikely that one will be developed for it anytime soon.  GroestlCoin will be ASIC-free for the foreseeable future

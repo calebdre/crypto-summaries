@@ -1,0 +1,1 @@
+Axiom is based on its own mining proof of work algorithm and has is experimenting with a different form of digital signatures to Bitcoin. 

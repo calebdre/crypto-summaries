@@ -1,0 +1,1 @@
+808 is a coin develop for the music community as a tribute to the TR-808 Rhythm Composer, also known as the \"808\", one of the first programmable drum machines.  808 is a Proof of Work/Proof of Stake hybrid and uses the SHA256 hashing algorithm

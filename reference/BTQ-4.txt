@@ -1,0 +1,1 @@
+BitQuark is the result of merging Bitcoin with the super secure hashing power of Quarkcoin.  BitQuark uses Bitcoin's distribution method with the addition of 0. 5% annual inflationary after the initial 21,000,000 BitQuark's have been mined.  It uses the super secure 'quark' algorithm made up of 9 rounds of hashing from 6 hashing functions (blake, bmw, grøstl, JH, keccak, skein)

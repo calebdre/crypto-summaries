@@ -1,0 +1,1 @@
+Unattanium is an SHA-256 alternative crypto currency. 

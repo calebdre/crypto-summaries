@@ -1,0 +1,1 @@
+<span>Elixir is an Ethereum-based token created for lending services.  It analyzes financial transactions and rewards borrowers for paying a loan installment on time.  As so, Elixir is mined through transfers between pairs of addresses

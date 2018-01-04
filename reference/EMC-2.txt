@@ -1,0 +1,1 @@
+Emercoin combines POS + POW algorithms to process transactions on its blockchain, with an emphasis on POS. 

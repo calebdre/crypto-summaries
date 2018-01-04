@@ -1,0 +1,1 @@
+Litecoin dark is a scrypt based alternative crypto currency combining darkcoin and litecoin features.  Just over 80 million currency units of LTCD ar to be issued throughout the proof of work mining cycle. 

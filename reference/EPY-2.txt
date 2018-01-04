@@ -1,0 +1,1 @@
+Empyrean is a pure proof of work scrypt based alternative crypto currency with a hard coded cap of 100,000 EPY units. 

@@ -1,0 +1,1 @@
+<span>EthLend is decentralized lending application based on the Ethereum blockchain

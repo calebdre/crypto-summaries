@@ -1,0 +1,1 @@
+<span>BlockMason is a Credit Protocol aiming to democratize currency creation through permanently recorded debt and credit obligations between parties.  CPT is an Ethereum-based ERC20 token powering BlockMason&#39;s Protocol. </span>

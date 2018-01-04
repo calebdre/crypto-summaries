@@ -1,0 +1,1 @@
+FujiCoin is a Proof of Work cryptocurrency using the <span>Scrypt-N-Fixed algorithm

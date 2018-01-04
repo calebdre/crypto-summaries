@@ -1,0 +1,1 @@
+Virta Unique Coin is a PoW/PoS cryptocurrency based on the NIST5 algorithm

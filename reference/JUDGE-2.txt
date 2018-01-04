@@ -1,0 +1,1 @@
+JudgeCoin is a hybrid proof of work and proof of stake alternative crypto currency - the algorithm is X13 and the proof of stake annualised interest rate is 6%.  

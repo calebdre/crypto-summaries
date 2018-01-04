@@ -1,0 +1,1 @@
+<span>LimeCoinx (LIMX) is an X11 altcoin that is based on the 11 hashing functions of blake, bmx, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, and echo

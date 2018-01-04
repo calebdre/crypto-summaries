@@ -1,0 +1,1 @@
+Litecoin dark is a scrypt based alternative crypto currency combining darkcoin and litecoin features

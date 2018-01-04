@@ -1,0 +1,1 @@
+Asch is a blockchain-based platform where developers can reate and deploy decentralized applications.  <span>Although it is based on an Ethereum-like model, Asch is designed to make developers&#39; life much easier: adopting JavaScript as development language, or supporting DBMS to store the transaction data. </span>

@@ -1,0 +1,1 @@
+Versa or Universal Token, is designed to store any type of data making it an ideal platform for a wide range of applications, including financial systems, medical records, supply chain management, voting systems, property titles, legal applications, and much more.  Versa allows applications and users to create their own blockchains, which are just whatever data they wish to track

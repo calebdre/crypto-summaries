@@ -1,0 +1,1 @@
+PinkCoin (PC) is an X11 coin with a seven day PoW period before switching to being a pure PoS coin with a 1% annual interest rate

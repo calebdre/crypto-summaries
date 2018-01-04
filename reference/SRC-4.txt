@@ -1,0 +1,1 @@
+SecureCoin is a fast and secure cryptographic digital currency based on Bitcoin.  The specifications have been carefully chosen to maintain Bitcoins economic model of deflation.  A single hashing algorithm poses a security risk because if it is compromised, the whole network is forever compromised. 

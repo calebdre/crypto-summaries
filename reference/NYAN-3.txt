@@ -1,0 +1,1 @@
+A coin based on a meme of an animated flying cat in the same vein as flappy coin.  The algorithm is Scrypt and there are 337 coins per block halving every 337,000 block with a 1% premine for bounties.  The block target is set to 1 minute, or 60 seconds, and difficulty retargets every 3 hours

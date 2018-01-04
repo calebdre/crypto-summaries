@@ -1,0 +1,1 @@
+Radium is the new look and function of xRadon - the original base of Project Radon.  The goal of Project Radon is to deliver a variety of 100% decentralized services using the blockchain.  Radium is the base blockchain, upon which all current services are built. 

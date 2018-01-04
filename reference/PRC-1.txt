@@ -1,0 +1,1 @@
+ProsperCoin is a PoW cryptocurrency with a modified Scrypt algorithm

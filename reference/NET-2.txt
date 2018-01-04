@@ -1,0 +1,1 @@
+Netcoin (NET) is a proposed Scrypt type cryptocurrency with a hybrid proof-of-work and proof-of-stake system that affords eventual control of the monetary supply to users.  Mining features a Super block every hour equal to 8 times the regular blocks

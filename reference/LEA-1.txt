@@ -1,0 +1,1 @@
+LeaCoin is a SHA256 Proof of Work cryptocurrency

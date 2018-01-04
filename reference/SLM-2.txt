@@ -1,0 +1,1 @@
+SlimCoin is an innovative coin and a hybrid proof of burn, work and stake.  Total coins are limited to 10 billion and the block reward decreases in relation to increasing diifficulty

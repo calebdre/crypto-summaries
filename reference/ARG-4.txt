@@ -1,0 +1,1 @@
+Argentum is another fast block time coin at 32 seconds.  It is a scrypt proof of work coin with difficulty retargetting every 250 blocks.  The name comes from the Latin for silver and the coin will have a 1. 1% annual inflation after the the hard coded total coin cap is reached

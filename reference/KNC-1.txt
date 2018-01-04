@@ -1,1 +1,1 @@
-KyberNetwork Crystal (KNC) is a token of the KyberNetwork platform – a decentralized service for an instant exchange of crypto currency assets.
+KyberNetwork wants to implement several ideal operating properties of an exchange including trustless, decentralized execution, instant trade and high liquidity

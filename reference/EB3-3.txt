@@ -1,0 +1,1 @@
+EB3coin is a Proof of Work cryptocurrency based on the Scrypt algorithm.  It has a 4billion coin supply with an 800million premine. 

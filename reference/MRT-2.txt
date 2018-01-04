@@ -1,0 +1,1 @@
+Since Waves has limited supply, no new coins are ever issued through mining.  Instead, full nodes and leasers are rewarded with transaction fees

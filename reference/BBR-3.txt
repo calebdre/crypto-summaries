@@ -1,0 +1,1 @@
+Boolberry is a wild Keccak algorithm PoW crypto coin.  The block interval, or target, is set to 120 seconds.  The total number of coins is limited to approximately 18

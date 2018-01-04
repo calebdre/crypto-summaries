@@ -1,0 +1,1 @@
+Iceberg coin is a hybrid proof of work and proof of stake coin that uses the NIST5 algorithm
