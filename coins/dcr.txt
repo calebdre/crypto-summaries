@@ -1,6 +1,3 @@
 To protect de-centralization of the network, it is recommended to avoid pools that have over 5% of network votes..
 Missed tickets can be caused by a poorly connected Proof-of-work (PoW) miner and may not necessarily be the fault of the pool. To protect de-centralization of the network, it is recommended to avoid pools that have over 5% of network votes..
 Missed tickets can be caused by a poorly connected Proof-of-work (PoW) miner and may not necessarily be the fault of the pool. To protect de-centralization of the network, it is recommended to avoid pools that have over 5% of network votes..
-To protect de-centralization of the network, it is recommended to avoid pools that have over 5% of network votes..
-Missed tickets can be caused by a poorly connected Proof-of-work (PoW) miner and may not necessarily be the fault of the pool. To protect de-centralization of the network, it is recommended to avoid pools that have over 5% of network votes..
-Missed tickets can be caused by a poorly connected Proof-of-work (PoW) miner and may not necessarily be the fault of the pool. To protect de-centralization of the network, it is recommended to avoid pools that have over 5% of network votes..

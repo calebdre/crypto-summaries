@@ -29,34 +29,3 @@
 "By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker." "Factom is to integrate its technology with Ancun Zhengxin's electronic data notarization services in China." "Provider of a data layer solution described as a giant database in which anyone can insert data directly on the Blockchain." [what else can Blockchain be used for] any kind of data you can think of that is transactional in nature & requires immutability"
 
 "[The blockchain] brings a level of auditing that’s based on mathematics and not based on trusting a third party.".
-"dLoc solution stores encrypted data about a document that can only be unlocked and read by authorized parties... "
-
-"the value itself and every verification process is recorded in Smart Cosmos and the Factom Blockchain..."
-
-"dLoc’s data and identity authentication solution holds great promise for both public and private sectors..."
-
-"By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker.".
-"Factom Harmony provides a single permanent document catalog that eases the pain and cost of audits..."
-
-"Factom is working on redundant record keeping problems, proof of compliance, and data integrity."
-
-" "dLoc solution stores encrypted data about a document that can only be unlocked and read by authorized parties... "
-
-"the value itself and every verification process is recorded in Smart Cosmos and the Factom Blockchain..."
-
-"dLoc’s data and identity authentication solution holds great promise for both public and private sectors..."
-
-"By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker." "Provider of a data layer solution described as a giant database in which anyone can insert data directly on the Blockchain.".
-"Factom Harmony provides a single permanent document catalog that eases the pain and cost of audits..."
-
-"Factom is working on redundant record keeping problems, proof of compliance, and data integrity."
-
-" "dLoc solution stores encrypted data about a document that can only be unlocked and read by authorized parties... "
-
-"the value itself and every verification process is recorded in Smart Cosmos and the Factom Blockchain..."
-
-"dLoc’s data and identity authentication solution holds great promise for both public and private sectors..."
-
-"By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker." "Factom is to integrate its technology with Ancun Zhengxin's electronic data notarization services in China." "Provider of a data layer solution described as a giant database in which anyone can insert data directly on the Blockchain." [what else can Blockchain be used for] any kind of data you can think of that is transactional in nature & requires immutability"
-
-"[The blockchain] brings a level of auditing that’s based on mathematics and not based on trusting a third party.".
