@@ -1,0 +1,3 @@
+WhiteCoin is a scypt based altcoin that morphs from a PoW into a PoS mode after block 100
+WhiteCoin is a scypt based altcoin that morphs from a PoW into a PoS mode after block 100.  Block time is reasonable at 90 seconds and difficulty retargets every block
+WhiteCoin is a scypt based altcoin that morphs from a PoW into a PoS mode after block 100.  Block time is reasonable at 90 seconds and difficulty retargets every block. 

@@ -1,0 +1,2 @@
+GoldPieces is an X11 crypto currency that moves from proof of work to proof of stake with a 500% rate
+GoldPieces is an X11 crypto currency that moves from proof of work to proof of stake with a 500% rate. 
