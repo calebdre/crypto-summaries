@@ -1,1 +1,0 @@
-Lumens are the native asset of Stellar, a decentralized global transaction network with open-source code. The network's distributed ledger records money as credit issued by third parties such as banks and payment processors and issues the credit to users' online wallets. Currencies can then be sent and automatically exchanged at the lowest rate via Stellar's distributed exchange.

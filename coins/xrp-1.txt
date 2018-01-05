@@ -1,1 +1,0 @@
-Ripple is a real-time gross settlement system (RTGS), currency exchange and remittance network by Ripple

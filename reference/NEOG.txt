@@ -1,0 +1,2 @@
+<span>NEO Gold is an ERC20 token
+<span>NEO Gold is an ERC20 token. </span>

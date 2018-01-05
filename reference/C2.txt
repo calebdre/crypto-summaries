@@ -1,0 +1,3 @@
+Coin 2
+Coin 2. 0 is a pure proof of stake coin with 60000000 total coins and an annual variable interest rate that decreases from 30% in y1 to 2% in y5
+Coin 2. 0 is a pure proof of stake coin with 60000000 total coins and an annual variable interest rate that decreases from 30% in y1 to 2% in y5. 

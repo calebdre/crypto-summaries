@@ -1,1 +1,0 @@
-To protect de-centralization of the network, it is recommended to avoid pools that have over 5% of network votes..

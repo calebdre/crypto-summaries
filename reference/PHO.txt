@@ -1,0 +1,3 @@
+Photon is a Proof of Work cryptocurrency based on the Blake256 algorithm
+Photon is a Proof of Work cryptocurrency based on the Blake256 algorithm.  It has a 90 billion PHO supply
+Photon is a Proof of Work cryptocurrency based on the Blake256 algorithm.  It has a 90 billion PHO supply. 

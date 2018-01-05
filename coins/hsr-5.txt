@@ -1,7 +1,0 @@
-The Hcash platform is designed to be a side chain for both 
-
-block-based and blockless-based blockchains. Hcash will be a value and 
-
-information carrier for major blockchains to enable the exchange of value 
-
-and information between these systems..

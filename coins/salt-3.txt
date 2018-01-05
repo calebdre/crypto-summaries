@@ -1,1 +1,0 @@
-The SALT Lending Platform uses borrowers' blockchain assets as collateral for loans of traditional currencies. This eliminates the need for credit scores, streamlines the lending process, and allows borrowers to obtain cash quickly without selling their crypto assets. SALT tokens are EC20 tokens that represent membership in the lending platform.

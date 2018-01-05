@@ -1,1 +1,0 @@
-Steemit is a social news service which runs a blogging and social networking website on top of a blockchain database, known as Steem

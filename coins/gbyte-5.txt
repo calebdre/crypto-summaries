@@ -1,3 +1,0 @@
-Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free. The rest of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded. The amounts you receive are proportional to your proven balances in BTC and Bytes on the next distribution date:
-
-To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet). You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address. The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed..

@@ -1,0 +1,4 @@
+A cryptsy mining contract share based on the SHA-256 algorithm coins
+A cryptsy mining contract share based on the SHA-256 algorithm coins.  20 Th/s are available in increments of 1Gh/s - so an issued shares of 20000
+A cryptsy mining contract share based on the SHA-256 algorithm coins.  20 Th/s are available in increments of 1Gh/s - so an issued shares of 20000.  Contracts can be bought and sold as and when on the Cryptsy exchange
+A cryptsy mining contract share based on the SHA-256 algorithm coins.  20 Th/s are available in increments of 1Gh/s - so an issued shares of 20000.  Contracts can be bought and sold as and when on the Cryptsy exchange. 

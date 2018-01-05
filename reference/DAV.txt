@@ -1,0 +1,2 @@
+DavorCoin is a PoW/PoS hybrid cryptocurrency based on the Scrypt algorithm
+DavorCoin is a PoW/PoS hybrid cryptocurrency based on the Scrypt algorithm. 

@@ -1,1 +1,0 @@
-CryptoNote is an application layer protocol that powers several decentralized privacy oriented digital currencies

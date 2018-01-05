@@ -1,0 +1,3 @@
+NefariousCoin is a Proof of Work/Proof of Stake cryptocurrency based on the Scrypt hashing algorithm
+NefariousCoin is a Proof of Work/Proof of Stake cryptocurrency based on the Scrypt hashing algorithm.  It has a 500 second blocktime
+NefariousCoin is a Proof of Work/Proof of Stake cryptocurrency based on the Scrypt hashing algorithm.  It has a 500 second blocktime.  

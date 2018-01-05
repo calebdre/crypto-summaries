@@ -1,0 +1,4 @@
+A coin operating on a slightly different algorithm of SHA-3
+A coin operating on a slightly different algorithm of SHA-3.  However the main characteristics are all there including a relatively fast 30 second block time
+A coin operating on a slightly different algorithm of SHA-3.  However the main characteristics are all there including a relatively fast 30 second block time.  Retargetting is done using the Kimoto Gravity well algorithm
+A coin operating on a slightly different algorithm of SHA-3.  However the main characteristics are all there including a relatively fast 30 second block time.  Retargetting is done using the Kimoto Gravity well algorithm. 

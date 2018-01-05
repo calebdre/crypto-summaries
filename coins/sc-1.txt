@@ -1,1 +1,0 @@
-Sia is a cloud-based data storage platform for peer-to-peer contracts on a blockchain network

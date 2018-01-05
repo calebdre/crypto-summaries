@@ -1,0 +1,3 @@
+Lbry is a content sharing platform where users can define the terms and fees on which they wish to share their content, using Blockchain technology and Bittorrent protocol
+Lbry is a content sharing platform where users can define the terms and fees on which they wish to share their content, using Blockchain technology and Bittorrent protocol.  LBC is a proof of work currency and can be mined using a GPU
+Lbry is a content sharing platform where users can define the terms and fees on which they wish to share their content, using Blockchain technology and Bittorrent protocol.  LBC is a proof of work currency and can be mined using a GPU. 

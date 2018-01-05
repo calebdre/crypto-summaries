@@ -1,0 +1,3 @@
+Mediterranean Coin (MED) is a uses a hybrid algorithm of Scrypt and SHA-256 - in order to limit the ability of large miners to jump on a network and increase the hashing power disproportionately
+Mediterranean Coin (MED) is a uses a hybrid algorithm of Scrypt and SHA-256 - in order to limit the ability of large miners to jump on a network and increase the hashing power disproportionately.  200 million currency units are set to be mined
+Mediterranean Coin (MED) is a uses a hybrid algorithm of Scrypt and SHA-256 - in order to limit the ability of large miners to jump on a network and increase the hashing power disproportionately.  200 million currency units are set to be mined. 

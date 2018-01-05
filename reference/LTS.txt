@@ -1,0 +1,4 @@
+Litestar Coin is a PoW and PoS hybrid - difficulty retargets each block
+Litestar Coin is a PoW and PoS hybrid - difficulty retargets each block.  there are random superblocks and a 15 second PoS block time
+Litestar Coin is a PoW and PoS hybrid - difficulty retargets each block.  there are random superblocks and a 15 second PoS block time.  Maximum supply is roughly 120 million LTS
+Litestar Coin is a PoW and PoS hybrid - difficulty retargets each block.  there are random superblocks and a 15 second PoS block time.  Maximum supply is roughly 120 million LTS. 

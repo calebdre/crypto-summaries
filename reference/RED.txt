@@ -1,0 +1,2 @@
+Redcoin is a Proof of Work cryptocurrency based on the Scrypt algorithm
+Redcoin is a Proof of Work cryptocurrency based on the Scrypt algorithm. 

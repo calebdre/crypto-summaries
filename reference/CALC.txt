@@ -1,0 +1,2 @@
+CaliphCoin is a Proof of Work cryptocurrency using the SHA256 algorithm
+CaliphCoin is a Proof of Work cryptocurrency using the SHA256 algorithm. 

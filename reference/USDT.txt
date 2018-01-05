@@ -1,0 +1,2 @@
+Tether converts cash into digital currency, to anchor or tether the value to the price of national currencies like the US dollar, the Euro, and the Yen.
+Tether is a token backed by actual fiat currency assets, including USD, Euros and, soon, Japanese Yen. One Tether equals one underlying unit of the currency backing it, e.g., the U.S. Dollar, and is backed 100% by actual assets in the Tether platform’s reserve account. Being anchored or “tethered” to real world currency, Tether provides protection from the volatility of cryptocurrencies.

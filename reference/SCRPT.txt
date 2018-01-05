@@ -1,0 +1,3 @@
+ScryptCoin is a Proof of Work currency made for the Scrypt algorithm miners and users
+ScryptCoin is a Proof of Work currency made for the Scrypt algorithm miners and users.  SCRPT plans to add a feature in which any scrypt algorithm coin to be mined and converted through the SCRPT wallet
+ScryptCoin is a Proof of Work currency made for the Scrypt algorithm miners and users.  SCRPT plans to add a feature in which any scrypt algorithm coin to be mined and converted through the SCRPT wallet. 

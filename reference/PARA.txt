@@ -1,0 +1,3 @@
+ParanoiaCoin is a Proof of Work cryptocurrency based on the popular Scrypt hashing algorithm, the same one used by Litecoin
+ParanoiaCoin is a Proof of Work cryptocurrency based on the popular Scrypt hashing algorithm, the same one used by Litecoin.  Users can mine this currency using any Scrypt ASIC
+ParanoiaCoin is a Proof of Work cryptocurrency based on the popular Scrypt hashing algorithm, the same one used by Litecoin.  Users can mine this currency using any Scrypt ASIC. 

@@ -1,0 +1,3 @@
+<span>Atomic Coin is an hybrid PoW/PoS using the Scrypt algorithm
+<span>Atomic Coin is an hybrid PoW/PoS using the Scrypt algorithm.  100% PoS interest will be reduced after 3 months after launch
+<span>Atomic Coin is an hybrid PoW/PoS using the Scrypt algorithm.  100% PoS interest will be reduced after 3 months after launch. </span>
