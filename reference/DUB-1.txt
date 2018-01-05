@@ -1,0 +1,1 @@
+DubCoin is an X15 PoW and PoS coin

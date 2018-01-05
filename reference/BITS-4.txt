@@ -1,0 +1,1 @@
+BitstarCoin is a Scrypt PoW/PoS hybrid.  The PoW phase lasts for 21 days and then the PoS staking begins at 35% for Y1 - dropping to 1% in yr 5.  The difficulty retargets every block and the block time is set to 30 seconds allowing for a two minute transaction confirmation. 

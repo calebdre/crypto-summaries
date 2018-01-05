@@ -1,0 +1,4 @@
+No premine.  No IPO. 
+Block time: 60 seconds
+Difficulty retarget: every block
+Min transaction fee: 0

@@ -1,0 +1,1 @@
+TrustPlus (TRUST) is an X11 algorithm based crypto currency that has a short PoW phase of just under seven days.  The PoS rate is 18% per annum and there was a premine for roughly 10% of the PoW mined coins. 

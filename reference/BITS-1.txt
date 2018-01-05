@@ -1,0 +1,1 @@
+BitstarCoin is a Scrypt PoW/PoS hybrid

@@ -1,0 +1,1 @@
+HyperCoin (HYPER) is a scrypt altcoin that switches from PoW to PoS - the PoW phase lasts two weeks and the PoS phase has three distinct phases of its own.  The first is a five PoS rate of 5% monthly for five years - the second a 10% annual rate for five years - and a third ad infinitum rate of 2%

@@ -1,0 +1,1 @@
+RonPaulCoin, or RPC, has a hard-coded cap of only 2. 1 million coins that will come into existence

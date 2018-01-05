@@ -1,0 +1,1 @@
+A coin that is a clone but with the added mission of trying to encourage scientific research.  OrbitCoin is a PoW/PoS hybrid without the PoS reward to reduce inflation but maintain the resistance to 51% attacks

@@ -1,0 +1,1 @@
+Litebar is another Scrypt Litecoin clone.  Difficulty retargets once per block using the Kimoto gravity well.  Block time is 3 minutes and the coin was not premined. 

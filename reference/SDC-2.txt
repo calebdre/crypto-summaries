@@ -1,0 +1,1 @@
+ShadowCash (SDC) is a scrypt hybrid Proof of work and proof of stake coin with a 2% staking interest per annum. An entire privacy-based platform which aims to establish an anonymous economy, with multiple features that give people all the financial freedom and privacy they should have

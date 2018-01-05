@@ -1,0 +1,1 @@
+Live ERC20 Index prices from all markets and ERC20 coin market Capitalization

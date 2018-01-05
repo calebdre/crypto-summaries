@@ -1,0 +1,1 @@
+Litebar is another Scrypt Litecoin clone

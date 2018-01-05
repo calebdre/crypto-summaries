@@ -1,0 +1,1 @@
+GameLeagueCoin (GLC) is a PoW/PoS crypto currency with a difficulty retargetting every block and a block time of 60 seconds.  The coin is scrypt and the POS carries an interest rate of 50% in Y1, 20% Y2, 10% Y3, 5% Y4, 2% Y5 and 1% thereafter. 

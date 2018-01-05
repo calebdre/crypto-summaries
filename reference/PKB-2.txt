@@ -1,0 +1,1 @@
+A crypto currency aiming to become the de facto method of payment for the parking industry.  A SHA256 coin operating on proof of work and proof of stake with a coin cap of 25 million

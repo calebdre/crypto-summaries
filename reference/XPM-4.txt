@@ -1,0 +1,1 @@
+Primecoin, or XPM, involves a new type of proof-of-work based on searching for prime numbers.  Primecoin was created by Sunny King - who also created Peercoin.  The block time is one minute and th total number of coins is 3299976 with dynamic difficulty retargetting. 
