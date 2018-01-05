@@ -1,1 +1,1 @@
-To protect de-centralization of the network, it is recommended to avoid pools that have over 5% of network votes..
+Decred is an open, progressive, and self-funding cryptocurrency with a system of community-based governance integrated into its blockchain

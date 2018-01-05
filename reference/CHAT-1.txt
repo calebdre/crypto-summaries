@@ -1,1 +1,0 @@
-ChatCoin is a Proof of Work/Proof of Stake cryptocurrency based on the Scrypt algorithm

@@ -1,1 +1,0 @@
-FriendshipCoin is a proof of work alternative crypto currency based on Proof of Work or PoW.  The total number of coins is just over 37 billion and the difficulty retargets every hour on a block time of 2. 

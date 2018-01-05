@@ -1,1 +1,0 @@
-Alexandrite is a PoW/PoS cryptocurrency based on the Alexandrite rare gen, which displays a color change dependent upon the nature of ambient lighting

@@ -1,1 +1,1 @@
-GlobalToken is a PoW cryptocurrency based on SHA256 algorithm. 
+Live GlobalToken prices from all markets and GLT coin market Capitalization.  Stay up to date with the latest GlobalToken price movements and forum discussion

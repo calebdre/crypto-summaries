@@ -1,2 +1,0 @@
-TotCoin is a Scrypt Proof of Work/Proof of Stake cryptocurrency with a 120 second block time
-TotCoin is a Scrypt Proof of Work/Proof of Stake cryptocurrency with a 120 second block time. 

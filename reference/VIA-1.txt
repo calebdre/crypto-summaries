@@ -1,1 +1,1 @@
- 
+Viacoin is a digital currency similar to Bitcoin that allows the creation of applications on top of the Viacoin blockchain in a similar way that email and web are built on top of the internet protocol

@@ -1,1 +1,0 @@
-DarkTron is a fork of Positron aiming to focus on structural development with anonymity as a forefront concern

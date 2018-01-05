@@ -1,1 +1,0 @@
-DarkBit is a Scrypt alternative crypto currency.  The coin is both proof of work and proof of stake

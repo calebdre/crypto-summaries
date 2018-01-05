@@ -1,7 +1,1 @@
-The Hcash platform is designed to be a side chain for both 
-
-block-based and blockless-based blockchains. Hcash will be a value and 
-
-information carrier for major blockchains to enable the exchange of value 
-
-and information between these systems..
+Live Hshare prices from all markets and HSR coin market Capitalization.  Stay up to date with the latest Hshare price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell

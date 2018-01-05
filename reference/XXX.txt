@@ -1,4 +1,0 @@
-XXX Coin (XXX) is a scrypt PoW PoS hybrid alternative crypto currency
-XXX Coin (XXX) is a scrypt PoW PoS hybrid alternative crypto currency.  There is no block reward reduction and the total coin supply is capped at 50 million
-XXX Coin (XXX) is a scrypt PoW PoS hybrid alternative crypto currency.  There is no block reward reduction and the total coin supply is capped at 50 million.  The block target is 30 seconds and over 70% of the coin supply is given out in the first few days on top of a premine of 5%
-XXX Coin (XXX) is a scrypt PoW PoS hybrid alternative crypto currency.  There is no block reward reduction and the total coin supply is capped at 50 million.  The block target is 30 seconds and over 70% of the coin supply is given out in the first few days on top of a premine of 5%. 

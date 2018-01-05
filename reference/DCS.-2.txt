@@ -1,1 +1,0 @@
-deCLOUDs is a decentralized cloud-based crypto platform that allows users to issue assets and tokens and to exchange them on a peer-to-peer basis.  deCLOUDs&#39; system groups nodes into virtual clouds by geographic location and ping time to make interaction between all members ion platform faster and more efficient

@@ -1,1 +1,0 @@
-Fractal Coin intends to distribute 90% of its 1 million coins in the initial 28 days of mining.  The coin features a new difficulty adjustment mechanism known as slingshot - the aim of which is to increase the % of controlled hashrate required for a 51% attack to over 70%

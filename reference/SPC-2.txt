@@ -1,2 +1,0 @@
-Spincoin, a fork of Talkcoin, was designed using the NIST5 hashing algorithm to provide a better combination 
-of power efficiency and security compared to other existing algorithms.  The coin is being delisted

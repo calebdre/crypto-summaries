@@ -1,5 +1,0 @@
-Node is a second generation crypto currency built in node
-Node is a second generation crypto currency built in node. js
-Node is a second generation crypto currency built in node. js.  it operates through proof of activity and can be seen as a hybrid between a crypto currency and a payments processing system
-Node is a second generation crypto currency built in node. js.  it operates through proof of activity and can be seen as a hybrid between a crypto currency and a payments processing system.  It can run efficiently on mobile clients and as the network become s more secure the more users there are - each time someone spends - the network becomes harder to break
-Node is a second generation crypto currency built in node. js.  it operates through proof of activity and can be seen as a hybrid between a crypto currency and a payments processing system.  It can run efficiently on mobile clients and as the network become s more secure the more users there are - each time someone spends - the network becomes harder to break. 

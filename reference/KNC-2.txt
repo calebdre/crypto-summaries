@@ -1,1 +1,1 @@
-KyberNetwork wants to implement several ideal operating properties of an exchange including trustless, decentralized execution, instant trade and high liquidity.  Besides serving as an exchange, KyberNetwork also provides payment APIs that will allow Ethereum accounts to easily receive payments from any crypto tokens
+Live Kyber Network prices from all markets and KNC coin market Capitalization.  Stay up to date with the latest Kyber Network price movements and forum discussion

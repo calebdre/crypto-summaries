@@ -1,1 +1,1 @@
-<span>EthLend is decentralized lending application based on the Ethereum blockchain.  LEND is an ERC20 token and its main utility is to be used for deployment payment fees on ETHLend with a 25% discount when compared to ETH
+Live EthLend prices from all markets and LEND coin market Capitalization.  Stay up to date with the latest EthLend price movements and forum discussion

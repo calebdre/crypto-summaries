@@ -1,1 +1,0 @@
-AntiLitecoin is a Scrypt Proof of Work cryptocurrency created to fix issues in Litecoin 

@@ -1,1 +1,0 @@
-Coinmatic is a PoS/PoW cryptocurrency based on th X11 algorithm

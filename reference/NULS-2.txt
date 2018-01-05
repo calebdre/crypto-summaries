@@ -1,1 +1,1 @@
-Nuls token in an ERC-20 token that will be used to support Nuls-based applications, pay for application cost, exchange for assets, support Nuls development, and pay transaction fees just to name a few. 
+Live Nuls prices from all markets and NULS coin market Capitalization.  Stay up to date with the latest Nuls price movements and forum discussion

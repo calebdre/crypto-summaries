@@ -1,1 +1,0 @@
-CloakCoin (CLOAK) is an X13 crypto coin that is attempting to introduce anonymity features via exchanges.  The team has a core set of four developers workig to implement these attributes.  The PoW block reward is a flat 496 coins and will stop after seven days where PoS takes precedence at 6% per annum.  There was no premine and the block time is set to 60 seconds. 

@@ -1,1 +1,1 @@
-PinkCoin (PC) is an X11 coin with a seven day PoW period before switching to being a pure PoS coin with a 1% annual interest rate.  There is a hard cap of 380 million coins to be produced and a block time of 30 seconds.  There was no premine
+PinkCoin (PC) is an X11 coin with a seven day PoW period before switching to being a pure PoS coin with a 1% annual interest rate.  There is a hard cap of 380 million coins to be produced and a block time of 30 seconds. 

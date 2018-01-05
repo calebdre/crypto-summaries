@@ -1,1 +1,1 @@
-MustangCoin is a Proof of Work/Proof of Stake hybrid cryptocurrency.  It uses the X11 Hashing algorithm and has a 90 second block time
+Live MustangCoin prices from all markets and MST coin market Capitalization.  Stay up to date with the latest MustangCoin price movements and forum discussion

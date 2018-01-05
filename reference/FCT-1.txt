@@ -1,7 +1,1 @@
-"dLoc solution stores encrypted data about a document that can only be unlocked and read by authorized parties... "
-
-"the value itself and every verification process is recorded in Smart Cosmos and the Factom Blockchain..."
-
-"dLoc’s data and identity authentication solution holds great promise for both public and private sectors..."
-
-"By decentralizing data through the blockchain, Factom avoids critical failures due to user error or hacker.".
+Use the blockchain to power a remarkable range of applications, including audit systems, medical records, supply chain management, voting systems, property titles, legal applications, and financial systems

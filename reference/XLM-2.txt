@@ -1,1 +1,1 @@
-Stellar is a distributed, hybrid blockchain that is fully open-source. It is infrastructure that exists to facilitate cross-asset transfers of value, including payments.
+Live Stellar prices from all markets and XLM coin market Capitalization.  Stay up to date with the latest Stellar price movements and forum discussion

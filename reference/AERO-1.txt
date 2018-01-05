@@ -1,1 +1,0 @@
-AeroCoin is a X13 PoW PoS hybrid - the block time is 90 seconds and the maximum number of PoW blocks is 7122

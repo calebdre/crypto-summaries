@@ -1,1 +1,0 @@
-Crypti is a node js built crypto currency

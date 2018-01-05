@@ -1,1 +1,0 @@
-<span>Impulse Coin is an anonymous and decentralized.  It uses secure x13 algorithm.  Impulse coin is Minable as well as holding coins in wallet generate a 6% interest yearly.  This allows people to mine with GPUs and avoids centralization.  It uses POW + POS hybrid block chain technology for securing the blockchain

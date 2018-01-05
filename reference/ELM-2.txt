@@ -1,1 +1,0 @@
-Elements is a Proof of Work cryptocurrency based on the popular X11 Algorithm.  Elemetns works as a universal loyalty program in which merchants/brands mine ELM and can then offer them to clients

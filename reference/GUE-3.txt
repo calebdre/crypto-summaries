@@ -1,1 +1,0 @@
-Guerilla Coin is an X11 Proof of Work and Proof of Scrypt hybrid alternative crypto currency.  The block time is set to a minute and the PoS reward is set to vary depending on the network strength.  The maximum coin supply is 15 million GUE and proof of work will stop after the 10,000th block

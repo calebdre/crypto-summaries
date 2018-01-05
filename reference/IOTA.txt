@@ -1,5 +1,0 @@
-IOTA is an open-source distributed ledger
-IOTA is an open-source distributed ledger. It uses a directed acyclic graph (DAG) instead of a blockchain.
-The system is peer-to-peer, with transactions taking place directly between users and with an Coordinator intermediary. Transactions are considered confirmed when the Coordinator has included the transaction in its set of released milestones
-IOTA is an open-source distributed ledger. It uses a directed acyclic graph (DAG) instead of a blockchain.
-The system is peer-to-peer, with transactions taking place directly between users and with an Coordinator intermediary. Transactions are considered confirmed when the Coordinator has included the transaction in its set of released milestones. In order to send a transaction, a user must validate two other transactions on the network. A sent transaction must accumulate a sufficient level of verification (i.e

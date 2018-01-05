@@ -1,1 +1,0 @@
-Riecoin is in homage to Bernhard Riemann who studied the distribution of prime numbers.  RieCoin is a POW altcoin with a blocktime of 2. 5 mins and difficulty retagetting every 288 blocks or 12 hours.  There is a hard cap of 84 million RIC. 

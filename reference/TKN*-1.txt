@@ -1,1 +1,0 @@
-TrollTokens is a PoW/PoS hybrid cryptocurrency based on Bitcoin&#39;s hashing algorithm

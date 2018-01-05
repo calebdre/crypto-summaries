@@ -1,5 +1,0 @@
-BitcoinTX is an attempt at reformulating Bitcoin with Proof of Stake and using the X11 algorithm
-BitcoinTX is an attempt at reformulating Bitcoin with Proof of Stake and using the X11 algorithm.  Initially there was a PoW phase
-BitcoinTX is an attempt at reformulating Bitcoin with Proof of Stake and using the X11 algorithm.  Initially there was a PoW phase.  After that, it was all PoS but there was a problem in the "lucky stake" code
-BitcoinTX is an attempt at reformulating Bitcoin with Proof of Stake and using the X11 algorithm.  Initially there was a PoW phase.  After that, it was all PoS but there was a problem in the "lucky stake" code.  The original developer(s) walked away
-BitcoinTX is an attempt at reformulating Bitcoin with Proof of Stake and using the X11 algorithm.  Initially there was a PoW phase.  After that, it was all PoS but there was a problem in the "lucky stake" code.  The original developer(s) walked away.  After that, they licked their wounds, started a little "crowd-fund" for a new developer to fix the code and managed to go forward with the project!

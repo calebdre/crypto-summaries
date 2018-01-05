@@ -1,1 +1,0 @@
-Saturn2Coin is a relaunch of Saturn Coin.  It is a scrypt PoW coin with a total supply of 15 billion units and a difficulty retargetting every 30 minutes

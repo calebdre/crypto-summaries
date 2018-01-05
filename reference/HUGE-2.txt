@@ -1,1 +1,0 @@
-HugeCoin or BigVoin has a block time of 30 seconds and is proof of work based.  

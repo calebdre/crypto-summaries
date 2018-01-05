@@ -1,1 +1,0 @@
-SyncCoin (SYNC) is an X11 algoithm alt Coin.  The block time is sixty seconds and the POW phase ends after 1000 coins have been mined.  The continuing POS phase is set to a rate of 1% per annum.  There was a 0. 

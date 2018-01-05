@@ -1,2 +1,0 @@
-RingCoin is a scrypt cryptocurrency with a Proof of Work/Proof of Stake hybrid consensus mechanism
-RingCoin is a scrypt cryptocurrency with a Proof of Work/Proof of Stake hybrid consensus mechanism.  

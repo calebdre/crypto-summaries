@@ -1,0 +1,1 @@
+Decred is an open, progressive, and self-funding cryptocurrency with a system of community-based governance integrated into its blockchain.  At its core is a hybridized proof-of-work proof-of-stake (PoW/PoS) consensus system that aims to strike a balance between PoW miners and PoS voters to create a more robust notion of consensus

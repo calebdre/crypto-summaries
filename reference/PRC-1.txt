@@ -1,1 +1,1 @@
-ProsperCoin is a PoW cryptocurrency with a modified Scrypt algorithm
+Live ProsperCoin prices from all markets and PRC coin market Capitalization

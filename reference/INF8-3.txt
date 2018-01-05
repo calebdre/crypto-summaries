@@ -1,1 +1,0 @@
-<span>Infinium-8 (INF8) is a privacy-centric cryptocurrency using the CryptoNote protocol.  </span><span>The open source reference implementation of CryptoNote was coded from scratch based on the CryptoNote reference implementation, and is not a fork of Bitcoin.  </span><span>Infinium-8 aims to be a fungible and untraceable digital medium of exchange

@@ -1,1 +1,1 @@
-CryptoNote is an application layer protocol that powers several decentralized privacy oriented digital currencies
+Bytecoin (BCN) is the first currency based on the CryptoNote technology and launched back in July, 2012

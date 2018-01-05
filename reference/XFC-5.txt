@@ -1,1 +1,0 @@
-ForeverCoin was inspired by Blackcoin.  and it shares much of the source code and technical implementation of Blackcoin.  The ForeverCoin source code is distributed under the MIT/X11 software license.  ForeverCoin has 105 million coins for initial distribution and a hard limit on the number of possible coins of 210 million. 

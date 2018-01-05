@@ -1,3 +1,0 @@
-Dream8Coin is a Proof of Work cryptocurrency running on the Scrypt algorithm
-Dream8Coin is a Proof of Work cryptocurrency running on the Scrypt algorithm.  It has a 60 second block time
-Dream8Coin is a Proof of Work cryptocurrency running on the Scrypt algorithm.  It has a 60 second block time. 

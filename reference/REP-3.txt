@@ -1,2 +1,1 @@
-Augur is a fully open-source and decentralized prediction market platform built on Ethereum, a blockchain technology that allows for the execution of smart contracts. JavaScript is also used for a browser-based GUI supplementing the command line. Notable supporters of the project include Intrade co-founder Ron Bernstein, the Thiel Foundation and Vitalik Buterin.
-Early development of the software began in autumn 2014, and an alpha version was released in June 2015
+Live Augur prices from all markets and REP coin market Capitalization.  Stay up to date with the latest Augur price movements and forum discussion.  Check our our snapshot charts and see when there is an opportunity to buy or sell Augur

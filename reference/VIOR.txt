@@ -1,2 +1,0 @@
-ViorCoin includes encrypted messageing but is also a scrypt alternative crypto currency
-ViorCoin includes encrypted messageing but is also a scrypt alternative crypto currency. 

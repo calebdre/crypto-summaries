@@ -1,1 +1,0 @@
-ReddCoin is trying to jump on the tipping bandwagon by making itself the social network donation go to default.  A Scrypt coin with a 60 second block time and block retargeting using kimoto&#39;s gravity well.  The coin also includes a 5% annual inflation after the 27. 5 billion have been mined by PoW.  Alongside Reddcoin inludes an innovative proof of stake velocity algorithm

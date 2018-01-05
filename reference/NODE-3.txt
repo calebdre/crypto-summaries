@@ -1,1 +1,0 @@
-Node is a second generation crypto currency built in node. js.  it operates through proof of activity and can be seen as a hybrid between a crypto currency and a payments processing system

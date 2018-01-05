@@ -1,2 +1,0 @@
-<span>Bitcloud is a scrypt PoW/PoS hybrid (currently in PoS stage) cryptocurrency that wants to \"decentralize the Internet\" through a new Proof of Stake/Proof of Host protocol, where Hostnodes will provide space, cpu and ram
-<span>Bitcloud is a scrypt PoW/PoS hybrid (currently in PoS stage) cryptocurrency that wants to \"decentralize the Internet\" through a new Proof of Stake/Proof of Host protocol, where Hostnodes will provide space, cpu and ram. </span><br /><br />

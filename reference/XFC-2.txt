@@ -1,1 +1,0 @@
-ForeverCoin was inspired by Blackcoin.  and it shares much of the source code and technical implementation of Blackcoin

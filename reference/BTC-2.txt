@@ -1,1 +1,1 @@
-<strong>Processing - mining</strong> Mining is a distributed consensus system that is used to confirm waiting transactions by including them in the block chain.  It enforces a chronological order in the block chain, protects the neutrality of the network, and allows different computers to agree on the state of the system
+Live Bitcoin prices from all markets and BTC coin market Capitalization.  Stay up to date with the latest Bitcoin price movements and forum discussion

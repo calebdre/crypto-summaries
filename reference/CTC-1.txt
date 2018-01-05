@@ -1,1 +1,0 @@
-<span>CarterCoin is a PoW/PoS cryptocurrency based on NovaCoin, with the goal of providing a long-term energy-efficient scrypt-based coin

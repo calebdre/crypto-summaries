@@ -1,1 +1,1 @@
-BTCMoon is an ERC20 token. 
+Live BTCMoon prices from all markets and BTCM coin market Capitalization.  Stay up to date with the latest BTCMoon price movements and forum discussion

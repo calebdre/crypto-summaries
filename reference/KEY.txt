@@ -1,3 +1,0 @@
-KeyCoin is an X13 crypto currency that switches from a proof of work distribution phase to a proof of stake annualised to 20%
-KeyCoin is an X13 crypto currency that switches from a proof of work distribution phase to a proof of stake annualised to 20%.  The block time is targettred to 1 minute
-KeyCoin is an X13 crypto currency that switches from a proof of work distribution phase to a proof of stake annualised to 20%.  The block time is targettred to 1 minute. 

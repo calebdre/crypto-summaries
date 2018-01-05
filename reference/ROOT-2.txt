@@ -1,1 +1,0 @@
-RootCoin is a Proof of Work/Proof of Stake cryptocurrency, although the PoW phase ended on block 3700.  Rootcoin has a 5 minute block time and uses the Scrypt algorithm

@@ -1,1 +1,0 @@
-NanoCoin (NAN) is a litecoin clone, nanotokens run on a scrypt algorithm and have 90-second blocks and a total circulation of 80 million. 

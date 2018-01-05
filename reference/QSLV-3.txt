@@ -1,1 +1,0 @@
-The goal of QuickSilver is to decentralize the process of acquiring and paying for a cab.   A robust driver and customer matching system includes everyone from independent cab drivers to fleet owners allowing everyone to compete in the market. 

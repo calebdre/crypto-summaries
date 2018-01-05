@@ -1,1 +1,0 @@
-JaneCoin is a Proof of Work cryptocurrency using the popular Scrypt algorithm

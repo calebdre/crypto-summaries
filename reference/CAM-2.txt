@@ -1,1 +1,0 @@
-CamCoin has an open libertarian philosophy on sharing photography and art.  It is a PoW PoS hybrid X11 based alternative crypto currency with a block time of 60 seconds and difficulty retargetting every 20 blocks

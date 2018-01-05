@@ -1,1 +1,0 @@
-Mastercoin is both a new type of currency (MSC) and a platform.  It is a new protocol layer running on top of bitcoin like HTTP runs on top of TCP/IP

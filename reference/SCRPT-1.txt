@@ -1,1 +1,0 @@
-ScryptCoin is a Proof of Work currency made for the Scrypt algorithm miners and users

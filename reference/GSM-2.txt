@@ -1,1 +1,0 @@
-GSM coin is a phone unlocking service based on an X11 crypto currency that is both proof of stake and proof of work.  The proof of stake rate is set to an annual 10%

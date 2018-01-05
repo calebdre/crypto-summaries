@@ -1,1 +1,0 @@
-Dirac Coin (XDQ) is planned to be traded in conjunction with Nautilus coin - which introduced the concept of free-market managed economic stability.  Dirac is a Blake-256 algorithm based coin with a block target of 180 seconds and difficulty retargetting every 2016 blocks

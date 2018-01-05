@@ -1,1 +1,0 @@
-ApexCoin is an X13 based altcoin that is both Proof of Work and Proof of Stake.  The PoW ends after block 30000, or 15 days.  The block time is 60 seconds. 

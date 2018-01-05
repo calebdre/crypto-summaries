@@ -1,1 +1,0 @@
-NoirBits (NRB) The 2 minute block time aims to improve on LTC's time but not so drastic as to cause a permanent orphan problems

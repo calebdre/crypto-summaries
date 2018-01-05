@@ -1,1 +1,1 @@
-ChainLink’s LINK Network is the first decentralized oracle network which allows anyone to securely provide smart contracts with access to key external data, off-chain payments and any other API capabilities. Anyone who has a data feed, useful off-chain service such as local payments, or any other API, can now provide them directly to smart contracts in exchange for LINK tokens.
+Live ChainLink prices from all markets and LINK coin market Capitalization.  Stay up to date with the latest ChainLink price movements and forum discussion

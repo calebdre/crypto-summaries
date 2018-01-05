@@ -1,1 +1,0 @@
-SupCoin was a developer coin running a new algorithm based on a mixture of sha-256 but using memory hard hashing techniques called Pluck.  The coin can be traded on Bittrex

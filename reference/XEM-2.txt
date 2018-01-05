@@ -1,0 +1,1 @@
+NEM is a peer-to-peer crypto platform.  It is written in Java and JavaScript with 100% original source code

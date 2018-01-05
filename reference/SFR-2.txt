@@ -1,1 +1,0 @@
-SaffronCoin (SFR) is a PoW coin based on mining with any of these five algorithms - SHA-256, Scrypt, Groestl, X11 or Blake256.  The difficulty is adjusted individually for each algorithm so the probability of finding a hash remains the same for algorithm type

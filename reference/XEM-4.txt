@@ -1,0 +1,1 @@
+NEM is a peer-to-peer crypto platform.  It is written in Java and JavaScript with 100% original source code.  NEM has a stated goal of a wide distribution model and has introduced new features in blockchain technology in its proof-of-importance (POI) algorithm. 

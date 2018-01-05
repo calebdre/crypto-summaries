@@ -1,1 +1,1 @@
-Waves is a decentralized financial trading platform written in Scala and built on its own blockchain with custom tokens being its main feature.
+Live Waves prices from all markets and WAVES coin market Capitalization

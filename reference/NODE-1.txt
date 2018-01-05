@@ -1,1 +1,0 @@
-Node is a second generation crypto currency built in node
