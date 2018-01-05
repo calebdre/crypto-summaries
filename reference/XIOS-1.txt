@@ -1,1 +1,1 @@
-Live Xios prices from all markets and XIOS coin market Capitalization
+Xios is a PoW/PoS cryptocurrency based on the Scrypt algorithm.

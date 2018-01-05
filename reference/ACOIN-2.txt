@@ -1,1 +1,1 @@
-Live ACoin prices from all markets and ACOIN coin market Capitalization.  Stay up to date with the latest ACoin price movements and forum discussion
+Acoin is an SHA-256 Bitcoin clone..  The block reward varies with a block reward of 2-10x normal roughly every 1 in ten blocks.

@@ -1,1 +1,1 @@
-Live Santiment prices from all markets and SAN coin market Capitalization.  Stay up to date with the latest Santiment price movements and forum discussion
+Santiment will be a financial market data and content platform for cryptocurrency and blockchain space..  Santiment offers datafeeds and content streams (including newswires) alongside a regularly updated database of cryptocurrency projects.

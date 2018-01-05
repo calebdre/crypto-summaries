@@ -1,1 +1,1 @@
-Live CashCoin prices from all markets and CASH coin market Capitalization
+In CASH there are two types of minting, proof-of-work (PoW) and proof-of-stake (PoS).

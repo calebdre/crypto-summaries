@@ -1,1 +1,1 @@
-Live MicroMoney prices from all markets and AMM coin market Capitalization
+MicroMoney is an Ethereum-based Open Source Credit & Big Data Bureau that connects new customers to existing financial services.

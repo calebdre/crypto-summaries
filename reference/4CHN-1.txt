@@ -1,1 +1,1 @@
-Live ChanCoin prices from all markets and 4CHN coin market Capitalization
+ChanCoin is a Proof of Work cryptocurrency based on the Scrypt algorithm.

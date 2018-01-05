@@ -1,1 +1,1 @@
-Live DigitalCash prices from all markets and DASH coin market Capitalization
+DigitalCash (DASH) uses a new chained hashing algorithm approach, with many new scientific hashing algorithms for the proof-of-work.

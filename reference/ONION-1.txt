@@ -1,1 +1,1 @@
-Live DeepOnion prices from all markets and ONION coin market Capitalization
+DeepOnion is a cryptocurrency that uses of the X13 proof of work (PoW) consensus as well as proof of stake (PoS).

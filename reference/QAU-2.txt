@@ -1,1 +1,1 @@
-Live Quantum prices from all markets and QAU coin market Capitalization.  Stay up to date with the latest Quantum price movements and forum discussion
+The Quantum project aims to bring institutional grade liquidity to the cryptocurrency and digital asset markets, which is currently one of the main impediments to large scale adoption..  Quantum will do this by deploying liquidity pools which will provide funds for margin trading to exchanges, connecting various markets by arbitraging price differences and making markets using price neutral algorithmic trading.

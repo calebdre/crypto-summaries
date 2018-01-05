@@ -1,1 +1,0 @@
-Song coin is an alternative crypto currency based on proof of work and scrypt. 

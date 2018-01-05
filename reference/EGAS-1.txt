@@ -1,1 +1,1 @@
-Live ETHGAS prices from all markets and EGAS coin market Capitalization
+ETHGAS is an ERC20 token based on the Ethereum blockchain.

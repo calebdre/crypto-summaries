@@ -1,1 +1,0 @@
-StableCoin is a new type of decentralized currency.  SBC has what it calls the optimised block time of 40 seconds - to play the balance between orphaned blocks and transaction confirmation time - i. e.  Forking issues. 

@@ -1,1 +1,1 @@
-Live RChain prices from all markets and RHOC coin market Capitalization.  Stay up to date with the latest RChain price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
+The RChain platform supports multiple blockchains both public and private, even on the same node..  These blockchains are secured by the type of consensus protocol - proof-of-stake enabling the blockchains to interact securely and predictably..  The Smart contracts are verified on Rchain and are written in RhoLang.

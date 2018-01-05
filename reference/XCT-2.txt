@@ -1,1 +1,1 @@
-Live C-Bits prices from all markets and XCT coin market Capitalization.  Stay up to date with the latest C-Bits price movements and forum discussion
+C-Bit is a Proof of Work cryptocurrency with the same specifications as Bitcoin but with a 210 million supply and a 2 mb block size..  The coin follows all the same updates as Bitcoin Core.

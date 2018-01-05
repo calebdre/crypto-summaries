@@ -1,1 +1,1 @@
-Live ScryptToken prices from all markets and SCT coin market Capitalization
+ScryptToken is a Proof of Work/Proof of Stake cryptocurrency using the Scrypt algorithm.

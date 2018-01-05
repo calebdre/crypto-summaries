@@ -1,1 +1,1 @@
-Live MicroMoney prices from all markets and AMM coin market Capitalization.  Stay up to date with the latest MicroMoney price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
+MicroMoney is an Ethereum-based Open Source Credit & Big Data Bureau that connects new customers to existing financial services..  AMM is an ERC20 utility token..  The AMM token is an integral part of the MicroMoney ecosystem and can be used as an internal payment mean or to get access to MicroMoney’s services.

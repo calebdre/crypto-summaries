@@ -1,1 +1,1 @@
-PesetaCoin is a scrypt altcoin like Litecoin
+PesetaCoin is a scrypt altcoin like Litecoin.

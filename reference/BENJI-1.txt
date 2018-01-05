@@ -1,1 +1,1 @@
-Live BenjiRolls prices from all markets and BENJI coin market Capitalization
+BenjiRolls is a Proof of Work cryptocurrency based on the Scrypt algorithm.

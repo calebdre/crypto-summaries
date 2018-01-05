@@ -1,1 +1,1 @@
-Live Trackr prices from all markets and TKR coin market Capitalization.  Stay up to date with the latest Trackr price movements and forum discussion
+CryptoInsight is initially a mobile application that will leverage the Ethereum blockchain to implement a fully fledged web platform..  Trackr aims to provide a real-time alert on cryptocurrency market shifts and an interface to view and manage the portfolio.

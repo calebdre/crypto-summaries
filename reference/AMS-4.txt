@@ -1,1 +1,0 @@
-Amsterdam Coin, AMS, aims to be the crypto currency for Amsterdam using a ToR client to obfuscate transactions.  The coin is a quark based algo with a proof of work element lasting 840000 blocks with a block reward of 10 AMS per block.  The block time is 60 seconds and the proof of stake has an 8% reward. 

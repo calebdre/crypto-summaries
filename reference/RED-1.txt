@@ -1,1 +1,1 @@
-Live Redcoin prices from all markets and RED coin market Capitalization
+Redcoin is a Proof of Work cryptocurrency based on the Scrypt algorithm.

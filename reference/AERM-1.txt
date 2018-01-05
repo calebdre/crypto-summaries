@@ -1,1 +1,1 @@
-Live Aerium prices from all markets and AERM coin market Capitalization
+Aerium is a PoW/PoS cryptocurrency based on SkunkHash algorithm.

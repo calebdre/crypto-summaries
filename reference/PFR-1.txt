@@ -1,1 +1,1 @@
-Live PayFair  prices from all markets and PFR coin market Capitalization
+PayFair is an ERC-20 token based on the Ethereum network.

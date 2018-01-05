@@ -1,1 +1,1 @@
-Live Request Network prices from all markets and REQ coin market Capitalization.  Stay up to date with the latest Request Network price movements and forum discussion
+Request is a decentralized network that allows anyone to request a payment (a Request Invoice) and provide a safe payment method to the receiver..  All of the data is stored in a decentralized authentic ledger.

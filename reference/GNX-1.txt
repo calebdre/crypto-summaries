@@ -1,0 +1,1 @@
+Genaro Network is an Ethereum-based storage network, providing blockchain developers a one-stop solution to deploy smart contracts and store data simultaneously.

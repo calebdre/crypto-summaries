@@ -1,1 +1,1 @@
-Live Insane Coin prices from all markets and INSN coin market Capitalization.  Stay up to date with the latest Insane Coin price movements and forum discussion
+Insane Coin is a PoW/PoS cryptocurrency based on the X11 algorithm..  The Insane Coin moved to a new blockchain in order to support new features like Masternodes, POS v3, Darksend, Adaptive block sizes, VRX and more.

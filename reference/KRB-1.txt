@@ -1,1 +1,1 @@
-Live Karbowanec prices from all markets and KRB coin market Capitalization
+Karbowanec is a Proof of Work cryptocurrency that uses the cryptonight hashing algorithm.

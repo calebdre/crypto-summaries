@@ -1,1 +1,1 @@
-Live Bitcoin Gold prices from all markets and BTG coin market Capitalization.  Stay up to date with the latest Bitcoin Gold price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
+Bitcoin Gold is a fork of the Bitcoin blockchain that occurred at block 491407..  It implements a new PoW algorithm, Equihash, which makes it ASIC-resistant and can only be mined by GPUs rigs..  The purpose of Bitcoin Gold is to make mining decentralized again following Satoshi Nakamoto's vision of 1 CPU = 1 vote.

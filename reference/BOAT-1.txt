@@ -1,1 +1,1 @@
-Live Doubloon prices from all markets and BOAT coin market Capitalization
+Doubloon is a Proof of Work/Proof of Stake cryptocurrency based on the rare HMQ1725 algorithm which can be mined with CPU.

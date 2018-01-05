@@ -1,1 +1,1 @@
-Live MMXVI prices from all markets and MMXVI coin market Capitalization.  Stay up to date with the latest MMXVI price movements and forum discussion
+MMXVI is a pure Proof of Work cryptocurrency using the Argon2 algorithm..  It has a 30 second block time.

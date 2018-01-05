@@ -1,1 +1,1 @@
-Live FireRoosterCoin prices from all markets and FRC coin market Capitalization
+FireRoosterCoin is a Proof of Work cryptocurrency based on the SHA256 algorithm.

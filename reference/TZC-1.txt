@@ -1,1 +1,1 @@
-Live TrezarCoin prices from all markets and TZC coin market Capitalization
+TrezorCoin is a proof of work cryptocurrency supporting multi-algo mining through PoS and PoW.

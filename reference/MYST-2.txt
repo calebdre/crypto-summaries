@@ -1,1 +1,1 @@
-Live Mysterium prices from all markets and MYST coin market Capitalization.  Stay up to date with the latest Mysterium price movements and forum discussion
+Mysterium is a decentralized VPN service based on the Ethereum Network, allowing allowing anyone to rent their idle Network traffic, while providing a secure connection for those in need..  The MYST token allows users to perform activities within the Mysterium VPN network both as VPN clients or as a service provider (VPN Node).

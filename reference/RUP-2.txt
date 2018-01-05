@@ -1,1 +1,1 @@
-Live Rupee prices from all markets and RUP coin market Capitalization.  Stay up to date with the latest Rupee price movements and forum discussion
+Rupee is a blockchain based cryptocurrency that uses peer-to-peer network to enable digital exchanges instantly..  Rupee uses an altered version of the Scrypt Proof of Work mining algorithm, initially created for an online backup service named Tarsnap.

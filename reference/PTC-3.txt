@@ -1,1 +1,1 @@
-PesetaCoin is a scrypt altcoin like Litecoin.  The block time is one minute and the diffiuclty retargets using the Kimoto Gravity Well.  The starting block reward is 166 PTC and halves every year
+PesetaCoin is a scrypt altcoin like Litecoin..  The block time is one minute and the diffiuclty retargets using the Kimoto Gravity Well..  The starting block reward is 166 PTC and halves every year.

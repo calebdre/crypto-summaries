@@ -1,1 +1,1 @@
-Live SONM prices from all markets and SNM coin market Capitalization.  Stay up to date with the latest SONM price movements and forum discussion
+SONM is a a multi-purpose decentralized supercomputer for general purpose computing, allowig users to monetize their idle hardware and providing services that range from site hosting to scientific calculations..  The SONM project implements a fog computing structure instead of a costly cloud structure, reducing middlemen fees.

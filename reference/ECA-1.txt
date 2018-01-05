@@ -1,1 +1,1 @@
-Live Electra prices from all markets and ECA coin market Capitalization
+Electra is an PoW/PoS hybrid cryptocurrency based on the NIST5 algorithm.

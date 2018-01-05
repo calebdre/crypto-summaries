@@ -1,1 +1,1 @@
-Live RaiBlocks prices from all markets and XRB coin market Capitalization.  Stay up to date with the latest RaiBlocks price movements and forum discussion
+RaiBlocks is designed to be a low latency , high throughput cryptocurrency..  It builds on an analogy from the electrical engineering discipline by equating network consensus to arbiters circuits.

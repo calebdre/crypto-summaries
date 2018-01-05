@@ -1,1 +1,1 @@
-Live Asia Coin prices from all markets and AC coin market Capitalization.  Stay up to date with the latest Asia Coin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
+Asia Coin is a Scrypt Coin with a very brief PoW phase of two weeks or 20,000 blocks..  The PoW phase is scheduled to produce 40% of the hard capped limit of 360 million..  The PoS phase is set for ten years with first year stake interest set at a high 100% - whcih subsequently drops to 2%.

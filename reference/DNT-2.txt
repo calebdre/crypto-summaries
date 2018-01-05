@@ -1,1 +1,1 @@
-Live district0x prices from all markets and DNT coin market Capitalization.  Stay up to date with the latest district0x price movements and forum discussion
+District0x Network is a collective of decentralized marketplaces and communities, hereafter referred to as districts..  Districts exist as decentralized autonomous organizations on the district0x Network, built upon a standard open source framework comprised of Ethereum smart contracts and front-end libraries, hereafter referred to as d0xINFRA.

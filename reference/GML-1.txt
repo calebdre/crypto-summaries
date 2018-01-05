@@ -1,1 +1,0 @@
-GameLeagueCoin (GLC) is a PoW/PoS crypto currency with a difficulty retargetting every block and a block time of 60 seconds

@@ -1,1 +1,1 @@
-Live Skycoin prices from all markets and SKY coin market Capitalization.  Stay up to date with the latest Skycoin price movements and forum discussion
+Skycoin is a cryptocurrency written from scratch in Golang..  It does not use PoW nor PoS and relies instead on Obelisk, a network consensus algorithm, replaces both PoW and PoS with a web of trust.

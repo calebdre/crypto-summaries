@@ -1,1 +1,1 @@
-Live Quantstamp prices from all markets and QSP coin market Capitalization
+The Quantstamp is a protocol that aims to create a scalable and cost-effective audit system to all smart contracts on the Ethereum network.

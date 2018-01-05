@@ -1,1 +1,1 @@
-Live ByteCoin prices from all markets and BTE coin market Capitalization
+Bytecoin (BTE) is an open source P2P digital currency and a mimic of Bitcoin.

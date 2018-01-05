@@ -1,1 +1,0 @@
-A cypherpunk is any activist advocating widespread use of strong cryptography as a route to social and political change.  Originally communicating through the Cypherpunks electronic mailing list, informal groups aimed to achieve privacy and security through proactive use of cryptography. 

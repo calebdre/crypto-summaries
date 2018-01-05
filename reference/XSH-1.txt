@@ -1,1 +1,1 @@
-Live SHIELD prices from all markets and XSH coin market Capitalization
+SHIELD is a PoW cryptocurrency based on multiple algorithms (Scrypt, x17, groestl, blake2s, & lyra2rev2).

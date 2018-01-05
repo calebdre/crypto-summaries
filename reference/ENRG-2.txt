@@ -1,1 +1,1 @@
-Live EnergyCoin prices from all markets and ENRG coin market Capitalization.  Stay up to date with the latest EnergyCoin price movements and forum discussion
+EnergyCoin (ENRG) is a pure PoS scrypt altcoin with an initial distribution of 110000000 coins going to the 2000 members of the community..  The PoS annualised rates drop by 2% per year from 10% to 2% in year 5 - thereafter at year six there is a fixed interest rate of 1% per annum.

@@ -1,1 +1,1 @@
-Live ZenCash prices from all markets and ZEC coin market Capitalization
+ZenCash aims to be a secure and useful privacy coin, offering users zero-knowledge proof shielded transactions over an end-to-end encrypted network provided by compensated secure nodes.

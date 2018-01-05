@@ -1,1 +1,1 @@
-Live Quoine Liquid prices from all markets and QASH coin market Capitalization
+Quoine Liquid is a trading platform that aims to combine every liquidity source into a single highly liquid tradable order book.

@@ -1,1 +1,1 @@
-Live Bitcoin Cash prices from all markets and BCH / BCC coin market Capitalization.  Stay up to date with the latest Bitcoin Cash price movements and forum discussion
+Bitcoin Cash (BCH) is a hard forked version of the original Bitcoin..  It is similar to bitcoin with regards to its protocol; Proof of Work SHA-256 hashing, 21,000,000 supply, same block times and reward system.

@@ -1,1 +1,1 @@
-Live Elastic prices from all markets and XEL coin market Capitalization
+Elastic is an open-source project that provides the infastructure for a decentralized supercomputer.

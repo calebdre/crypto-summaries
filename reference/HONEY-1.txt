@@ -1,1 +1,1 @@
-Live Honey prices from all markets and HONEY coin market Capitalization
+Honey is a +PoW/PoS cryptocurrency using the Blake2s algorithm.

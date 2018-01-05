@@ -1,1 +1,1 @@
-Live Veritaseum prices from all markets and VERI coin market Capitalization
+Veritaseum is a smart contract-based wallet interface that allows anyone to create, enter and manage smart contracts without the need for any kind of intermediaries, middleman or centralized authority.

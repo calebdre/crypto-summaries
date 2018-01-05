@@ -1,1 +1,1 @@
-Live MoneyCoin prices from all markets and MONEY coin market Capitalization
+MoneyCoin is a Proof of Work/Proof of Stake cryptocurrency using the Scrypt algorithm.

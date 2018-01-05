@@ -1,1 +1,1 @@
-A coin operating on a slightly different algorithm of SHA-3
+A coin operating on a slightly different algorithm of SHA-3.

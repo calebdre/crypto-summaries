@@ -1,1 +1,1 @@
-Live FundYourselfNow prices from all markets and FYN coin market Capitalization
+FundYourselfNow is a crowdfunding platform that allows project creators to request for project help, funding and reward backers through the use of Ethereum smart contracts.

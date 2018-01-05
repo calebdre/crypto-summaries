@@ -1,1 +1,1 @@
-Live BlockCAT prices from all markets and CAT coin market Capitalization
+BlockCAT, short for Blockchain Complex Automated Transactions, is an Ethereum-based decentralized platform that provides an easy to use web portal for end users and organizations to provision and deploy smart contracts without the need to have prior knowledge or expertise.

@@ -1,1 +1,1 @@
-Live Kurrent prices from all markets and KURT coin market Capitalization
+Kurrent is a Proof of Work cryptocurrency that uses zero knowledge proofs to provide anonymous transactions.

@@ -1,1 +1,1 @@
-Live Qtum prices from all markets and QTUM coin market Capitalization
+Qtum is a decentralized blockchain platform with dApp and turing-coplete smart contract functionalities while still mantaining a an Unspent Transaction Output (UTXO) transaction model.

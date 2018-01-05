@@ -1,1 +1,1 @@
-Live B2B prices from all markets and B2BX coin market Capitalization
+B2BX is a cryptocurrency liquidity aggregator for margin and exchange trading while also providing distribution of liquidity to broker companies.

@@ -1,1 +1,1 @@
-Live Neutron prices from all markets and NTRN coin market Capitalization
+Neutron is an SHA-256d crypto currency with a 79 second block time target and a 5 hour proof of stake maturity with a varying interest reward.

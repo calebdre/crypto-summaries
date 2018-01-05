@@ -1,1 +1,1 @@
-NEM is a peer-to-peer crypto platform
+NEM is a peer-to-peer crypto platform.

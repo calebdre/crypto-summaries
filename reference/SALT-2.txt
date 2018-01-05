@@ -1,1 +1,1 @@
-Live Salt Lending prices from all markets and SALT coin market Capitalization.  Stay up to date with the latest Salt Lending price movements and forum discussion
+SALT is a membership based lending and borrowing network that allows users to leverage their blockchain assets to secure cash loans.  The SALT Secured Automated Lending Technology is a protocol and asset agnostic architecture designed to adapt to the constantly growing class of blockchain assets

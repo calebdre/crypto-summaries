@@ -1,1 +1,1 @@
-Live Hedge Token prices from all markets and HDG coin market Capitalization
+The Hedge platform provides users with hedge intruments designed for the cryptocurrency market.

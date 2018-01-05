@@ -1,1 +1,1 @@
-Live iDice prices from all markets and ICE coin market capitalization
+iDice is a dice gambling Dapp powered by the Ethereum network.

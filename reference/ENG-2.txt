@@ -1,1 +1,1 @@
-Live Enigma prices from all markets and ENG coin market Capitalization.  Stay up to date with the latest Enigma price movements and forum discussion
+Enigma is a decentralized data marketplace, that guarantees the privacy of their users' shared data cryptographically..  Enigma’s computational model is based on an optimized version of secure multi-party computation, backed by a verifiable secret-sharing scheme.

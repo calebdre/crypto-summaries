@@ -1,1 +1,1 @@
-Live ARK prices from all markets and ARK coin market Capitalization.  Stay up to date with the latest ARK price movements and forum discussion
+Ark is a cryptocurrency platform built on top an improved Delegated Proof of Stake (DPoS) system derived from Lisk, Crypti, and BitShares..  It uses Smart Bridges to communicate with other (new and existing) blockchains to further increase its reach, providing a wider range of features in a single place.

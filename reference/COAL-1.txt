@@ -1,1 +1,1 @@
-Live BitCoal prices from all markets and COAL coin market Capitalization
+BitCoal PoW cryptocurrency based on CryptoNight algorithm.

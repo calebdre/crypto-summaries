@@ -1,1 +1,1 @@
-Live Elementrem prices from all markets and ELE coin market Capitalization
+Elementrem is a Proof of Work Ethereum clone.

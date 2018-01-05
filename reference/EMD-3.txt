@@ -1,1 +1,1 @@
-Live Emerald prices from all markets and EMD coin market Capitalization.  Stay up to date with the latest Emerald price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
+Emerald (EMD) is an innovative new alt coin that uses scrypt for mining.  Emerald has a relatively fast 20 second block time and has 50 confirmations required for newly mined blocks and 3 for transactions.  The block reward is set at 5 emeralds per block and halves every two years

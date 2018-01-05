@@ -1,1 +1,1 @@
-BowsCoin (BSC) is an X11 Proof of Work alternative crypto currency.  The total number of coins is 21 million
+BowsCoin (BSC) is an X11 Proof of Work alternative crypto currency..  The total number of coins is 21 million.

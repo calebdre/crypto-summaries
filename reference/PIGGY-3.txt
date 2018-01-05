@@ -1,1 +1,0 @@
-Piggy Coin aims to be a started crypto currency to get people interested and understand the concept of crypto currencies.  The block time is 60 seconds and difficulty retargets each block.  The PoS rate is 3% and the premine was 1% and the Proof of Work phase ended after block 10,000 based on X11

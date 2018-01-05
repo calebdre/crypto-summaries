@@ -1,1 +1,1 @@
-Live GuccioneCoin prices from all markets and GCC coin market Capitalization
+GuccioneCoin is an experimental Proof of Work cryptocurrency beta project which will be used for rewards.

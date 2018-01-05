@@ -1,1 +1,1 @@
-Live Komodo prices from all markets and KMD coin market Capitalization.  Stay up to date with the latest Komodo price movements and forum discussion
+Komodo is a privacy-centric cryptocurrency that combines the anonymity of ZCash with the security of Bitcoin.   Using a new consensus mechanism developed by the Komodo team, delayed Proof of Work, Komodo blocks can be notarized using the Bitcoin blockchain

@@ -1,1 +1,1 @@
-Live ELTCOIN prices from all markets and ELTCOIN market Capitalization
+ELTCOIN is an ERC-20 token based on the Ethereum network.

@@ -1,1 +1,1 @@
-Live Numeraire prices from all markets and NMR coin market Capitalization
+Numerai is a network of data scientists that are incentivised to forecast models to improve hedge fund returns.

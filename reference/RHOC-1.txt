@@ -1,1 +1,1 @@
-Live RChain prices from all markets and RHOC coin market Capitalization
+The RChain platform supports multiple blockchains both public and private, even on the same node.

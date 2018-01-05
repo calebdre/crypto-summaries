@@ -1,1 +1,1 @@
-Live BitcoinFast prices from all markets and BCF coin market Capitalization
+BitCoinFast is a PoW/PoS cryptocurrency created to be a faster version of Bitcoin.

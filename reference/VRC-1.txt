@@ -1,1 +1,0 @@
-VRC is designed to reduce the PoW phase and enter PoS phase quickly

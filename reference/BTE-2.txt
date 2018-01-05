@@ -1,1 +1,1 @@
-Live ByteCoin prices from all markets and BTE coin market Capitalization.  Stay up to date with the latest ByteCoin price movements and forum discussion
+Bytecoin (BTE) is an open source P2P digital currency and a mimic of Bitcoin..  An SHA-256 coin with a retarget every 2016 blocks - 21 millions total coins and 6 block confimations.

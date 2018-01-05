@@ -1,1 +1,1 @@
-Live PayCoin prices from all markets and XPY coin market Capitalization
+Paycoin is an SHA256 cryptocurrency that switched from Proof of Work to Proof of Stake.

@@ -1,1 +1,1 @@
-Live FileCoin prices from all markets and FIL coin market Capitalization.  Stay up to date with the latest FileCoin price movements and forum discussion
+Filecoin is a decentralized storage network that turns cloud storage into an algorithmic market..  The market runs on a blockchain with a native protocol token (also called “Filecoin”), which miners earn by providing storage to clients.

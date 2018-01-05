@@ -1,1 +1,1 @@
-Live Printerium prices from all markets and PRX coin market Capitalization
+Printerium is a PoW/PoS hybrid coin using the popular Scrypt hashing algorithm.

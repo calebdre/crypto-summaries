@@ -1,1 +1,1 @@
-Counterparty is not a traditional crypto currency and is more of a payment network - using bitcoin as the transport layer
+Counterparty is not a traditional crypto currency and is more of a payment network - using bitcoin as the transport layer.

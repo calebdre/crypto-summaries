@@ -1,1 +1,1 @@
-Live ReeCoin prices from all markets and REE coin market Capitalization
+ReeCoin is a peer-to-peer PoW/PoS hybrid cryptocurrency with increased security and a fast consensus mechanism.

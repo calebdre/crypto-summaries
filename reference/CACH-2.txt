@@ -1,1 +1,1 @@
-Live Cachecoin prices from all markets and CACH coin market Capitalization.  Stay up to date with the latest Cachecoin price movements and forum discussion
+CACHeCoin (CACH) utilizes Proof-of-Stake (POS) mining that generates more CACHeCoins when you retain your coins for 7 days..  When the coins from a particular transaction become 7 days old, they will be used by your wallet to perform Proof-of-Stake mining that will generate new coins if you solve the block.

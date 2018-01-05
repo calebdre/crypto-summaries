@@ -1,1 +1,1 @@
-Live Kronecoin prices from all markets and KRONE coin market Capitalization
+Kronecoin is a Proof of Work cryptocurrency based on the Scrypt algorithm.

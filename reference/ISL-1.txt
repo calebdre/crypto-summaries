@@ -1,1 +1,0 @@
-IslaCoin (ISL) is an X11 alternative crypto currency with a sixty second block time based on the X11 algorithm

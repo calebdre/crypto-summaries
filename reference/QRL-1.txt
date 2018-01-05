@@ -1,1 +1,1 @@
-Live Quantum Resistant Ledger prices from all markets and QRL coin market Capitalization
+QRL is a Python-based blockchain ledger utilising hash-based one-time merkle tree signature scheme (XMSS) instead of ECDSA.

@@ -1,1 +1,1 @@
-Live EthBet prices from all markets and EBET coin market Capitalization
+EthBet is a gambling platform that will leverage the Ethereum blockchain to provide dicing games without a mandatory house edge.

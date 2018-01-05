@@ -1,1 +1,1 @@
-Live Ethereum Blue prices from all markets and BLUE coin market Capitalization
+Ethereum Blue is a platform that aims to add a security layer to the existing smart contracts leveraging the Ethereum blockchain.

@@ -1,1 +1,0 @@
-NobleCoin (NBL) is a scrypt based altcoin with a block time of 60 seconds - with five confirmations needed for transactions and 50 required for minting.   The coin supports transaction messaging and difficulty retargets every thirty blocks

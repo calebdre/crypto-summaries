@@ -1,1 +1,1 @@
-TorCoin is an X11  Proof of Work and Proof of Stake hybrid alternative crypto currency that intends to provide anonymously located web pages through a decentralised masternode network
+TorCoin is an X11  Proof of Work and Proof of Stake hybrid alternative crypto currency that intends to provide anonymously located web pages through a decentralised masternode network.

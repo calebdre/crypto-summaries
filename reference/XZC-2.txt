@@ -1,1 +1,1 @@
-Live ZCoin prices from all markets and XZC coin market Capitalization.  Stay up to date with the latest ZCoin price movements and forum discussion
+ZCoin is a Proof of Work cryptocurrency using the Lyra2 hashing algorithm..  It is an implementation of the Zerocoin protocol ( http://zerocoin.

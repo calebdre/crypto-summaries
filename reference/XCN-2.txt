@@ -1,1 +1,1 @@
-Cryptonite was developed by the Mini-blockchain Project over a period of almost four months.  Cryptonite is a fork of the Bitcoin core but the code has been extensively modified and expanded upon
+Cryptonite was developed by the Mini-blockchain Project over a period of almost four months..  Cryptonite is a fork of the Bitcoin core but the code has been extensively modified and expanded upon.

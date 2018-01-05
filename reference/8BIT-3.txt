@@ -1,1 +1,0 @@
-8BIT Coin is a proof of stake and proof of work hybrid with the proof of work phase halting after block 1888.  The coin then operates through proof of stake with an 8% annualised rate. 

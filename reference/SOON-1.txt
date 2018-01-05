@@ -1,1 +1,0 @@
-Soon Coin is an SHA-256 Bitcoin clone - the number of coins is 21 million to be mined by proof of work

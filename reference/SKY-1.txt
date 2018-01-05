@@ -1,1 +1,1 @@
-Live Skycoin prices from all markets and SKY coin market Capitalization
+Skycoin is a cryptocurrency written from scratch in Golang.

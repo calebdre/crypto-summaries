@@ -1,1 +1,1 @@
-Live Bancor Network Token prices from all markets and BNT coin market Capitalization
+The Bancor Protocol is a blockchain-based system for discovery and a liquidity mechanism supporting multiple smart contract platforms.

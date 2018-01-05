@@ -1,1 +1,1 @@
-Live Soarcoin prices from all markets and SOAR coin market Capitalization
+Soarcoin is an ERC20 token based on the Ethereum blockchain.

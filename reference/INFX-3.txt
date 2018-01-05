@@ -1,1 +1,1 @@
-Live Influxcoin prices from all markets and INFX coin market Capitalization.  Stay up to date with the latest Influxcoin price movements and forum discussion.  Check our our snapshot charts and see when there is an opportunity to buy or sell
+Influxcoin is a X11 algorithm based coin with no pre-mine using a Pow+Pos Hybrid backend and designed specifically for CPU/GPU mining..  INFX focuses on web hosting..  You can exchange BTC for INFX directly on the Influxcoin website.

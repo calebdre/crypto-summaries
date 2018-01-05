@@ -1,1 +1,1 @@
-Live Bitcoin Scrypt prices from all markets and BTCS coin market Capitalization
+Bitcoin Scrypt is a PoW cryptocurrency based on the Scrypt algorithm but with similarities to Bitcoin, like the 21M supply.

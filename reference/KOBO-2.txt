@@ -1,1 +1,1 @@
-Live KoboCoin prices from all markets and KOBO coin market Capitalization.  Stay up to date with the latest KoboCoin price movements and forum discussion
+Kobocoin is a digital currency and payment system similar to Bitcoin, with an African heritage..  All nodes verify transactions in a public distributed ledger calledthe blockchain.

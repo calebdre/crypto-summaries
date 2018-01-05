@@ -1,1 +1,1 @@
-Live Premium prices from all markets and PRE coin market Capitalization
+Premium is a lite version of Bitcoin using scrypt as a Proof of Work algorithm similar to Litecoin, except the total supply is considerably lower – only 20 million coins.

@@ -1,1 +1,1 @@
-Live FlorinCoin prices from all markets and FLO coin market Capitalization.  Stay up to date with the latest FlorinCoin price movements and forum discussion
+Florincoin (FLO) is a scrypt based coin with quick transaction processing..  It also introduces a useful new feature - transaction comments.

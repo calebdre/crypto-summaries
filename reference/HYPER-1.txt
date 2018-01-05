@@ -1,1 +1,1 @@
-HyperCoin (HYPER) is a scrypt altcoin that switches from PoW to PoS - the PoW phase lasts two weeks and the PoS phase has three distinct phases of its own
+HyperCoin (HYPER) is a scrypt altcoin that switches from PoW to PoS - the PoW phase lasts two weeks and the PoS phase has three distinct phases of its own.

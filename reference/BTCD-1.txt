@@ -1,1 +1,1 @@
-Live BitcoinDark prices from all markets and BTCD coin market Capitalization
+Bitcoin Dark (BTCD) is a PoW and PoS hybrid alternatve crypto currency based on the same algorithm as Bitcoin itself - SHA256 - the difference is in the intent behind development - where Bitcoin is moving towards regulatory approval with increased transparency, BitcoinDark tries to push further of the belief of decentralisation and anonymity.

@@ -1,1 +1,0 @@
-The Blocknet is founded on the XBridge, the first peer-to-peer protocol enabling communication between nodes on different blockchains

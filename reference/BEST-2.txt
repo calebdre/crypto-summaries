@@ -1,1 +1,1 @@
-Live BestChain prices from all markets and BEST coin market Capitalization.  Stay up to date with the latest BestChain price movements and forum discussion
+BestChain is an hybrid Proof of Work/Proof of Stake cryptocurrency based on the Scrypt algorithm..  It has a 1% PoS reward.

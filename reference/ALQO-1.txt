@@ -1,1 +1,1 @@
-Live Alqo prices from all markets and ALQO coin market Capitalization
+Alqo is a Proof of Work/Proof of Stake cryptocurrency based on the Quark algorithm.

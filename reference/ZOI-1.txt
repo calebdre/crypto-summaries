@@ -1,1 +1,1 @@
-Live Zoin prices from all markets and ZOI coin market Capitalization
+Zoin uses the Zerocoin protocol.

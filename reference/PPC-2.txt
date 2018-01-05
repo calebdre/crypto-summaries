@@ -1,1 +1,1 @@
-Live PeerCoin prices from all markets and PPC coin market Capitalization.  Stay up to date with the latest PeerCoin price movements and forum discussion
+A peer-to-peer crypto-currency design derived from Satoshi Nakamoto's Bitcoin..  Proof-of-Stake replaces Proof-of-Work to provide most of the network security.

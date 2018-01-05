@@ -1,1 +1,1 @@
-Live Blocktix prices from all markets and TIX coin market Capitalization.  Stay up to date with the latest Blocktix price movements and forum discussion
+Blocktix is a decentralized platform built for ticket sales and event promotion, a decentralized ticket distribution network facilitating the process for event organizers and fans alike..  The system is built on Ethereum smart contracts, allowing users  to verify the validity tickets for a given event, putting an end to the growing counterfeit grey economy.

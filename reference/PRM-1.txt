@@ -1,1 +1,1 @@
-Live Prism prices from all markets and PRM coin market Capitalization
+Prism is a Blockchain-as-a-Service development and production environment.

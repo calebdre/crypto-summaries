@@ -1,1 +1,1 @@
-Live Opus prices from all markets and OPT coin market Capitalization.  Stay up to date with the latest Opus price movements and forum discussion
+Opus is a decentralized music-sharing platform that is uncensorable, fair and easy to use, with its main focus being the monetization of music with no middlemen fees involved, ensuring that artists are properly rewarded fortheir efforts..  Opus leverages the Ethereum network for transactions and the IPFS protocol for file storage.

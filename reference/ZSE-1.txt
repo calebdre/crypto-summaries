@@ -1,1 +1,1 @@
-Live ZSEcoin prices from all markets and ZSE coin market Capitalization
+ZSEcoin is a Proof of Work/Proof of Stake hybrid based on the popular X11 algorithm.

@@ -1,1 +1,1 @@
-Live Stox prices from all markets and STX coin market Capitalization.  Stay up to date with the latest Stox price movements and forum discussion
+Stox is an open source, Ethereum based prediction market platform that leverages the concept of the wisdom of the crowd..  It allows users to trade the outcome of upcoming events in multiple categories, including finance, sports, politics and more.

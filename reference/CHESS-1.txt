@@ -1,1 +1,1 @@
-Live ChessCoin prices from all markets and CHESS coin market Capitalization
+ChessCoin is a PoW&PoS hybrid cryptocurrency, in which the Proof of Work stage ended before the launch, therefore CHESS can be considered 100% Proof of Stake.

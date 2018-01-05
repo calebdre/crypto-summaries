@@ -1,1 +1,1 @@
-Live MyriadCoin prices from all markets and XMY coin market Capitalization
+Myriad uses five proof of work algorithms for one coin which can be chosen by the user - Scrypt, SHA-256D.

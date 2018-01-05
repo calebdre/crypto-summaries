@@ -1,1 +1,1 @@
-Live MonetaryUnit prices from all markets and MUE coin market Capitalization
+MonetaryUnit is a cryptocurrency based on the Quark encryption algorithm.

@@ -1,1 +1,1 @@
-Live ACoin prices from all markets and ACOIN coin market Capitalization
+Acoin is an SHA-256 Bitcoin clone.

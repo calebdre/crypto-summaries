@@ -1,1 +1,1 @@
-Live IoT Chain prices from all markets and ITC coin market Capitalization.  Stay up to date with the latest IoT Chain price movements and forum discussion
+IoT Chain is an IoT operating system based on the blockchain..  The IoT chain operating system will integrate the DAG (Directed Acyclic Graph) organization model and Hyperledger technologies to provide a basic safety edge computing system and low-cost solutions for the IoT ecosystem.

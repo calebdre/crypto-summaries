@@ -1,1 +1,1 @@
-Live Zilbercoin prices from all markets and ZBC coin market Capitalization.  Stay up to date with the latest Zilbercoin price movements and forum discussion
+Zilbercoin is a Proof of Work/Proof of Stake cryptocurrency created to improve on the issues found on Bitcoin..  ZBC uses the popular Scrypt algorihtm.

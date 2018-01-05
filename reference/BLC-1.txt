@@ -1,1 +1,0 @@
-BlakeCoin is based on the Blake-256 algorithm

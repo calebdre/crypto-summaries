@@ -1,1 +1,1 @@
-Live EquiTrader prices from all markets and EQT coin market Capitalization.  Stay up to date with the latest EquiTrader price movements and forum discussion
+EquiTrader is a decentralized crowdsourced trading analysis platform that rewards traders with app tokens for providing valuable market analysis and trading forecasts and provides a social community for traders and investors of cryptocurrency, stock, futures, and forex markets..  The rewards are destributed in EQT tokens, a scrypt PoW cryptocurrency.

@@ -1,1 +1,1 @@
-Live Zoin prices from all markets and ZOI coin market Capitalization.  Stay up to date with the latest Zoin price movements and forum discussion
+Zoin uses the Zerocoin protocol..  The Zerocoin protocol uses zero-knowledge proofs to ensure that financial transactions are anonymous.

@@ -1,1 +1,1 @@
-WorldCoin is designed to be the digital currency of the future.  WorldCoin runs off the popular scrypt protocol which enables it to have stability for early adapters and users by operating from regular existing computer hardware. 
+WorldCoin is designed to be the digital currency of the future..  WorldCoin runs off the popular scrypt protocol which enables it to have stability for early adapters and users by operating from regular existing computer hardware..  At the forefront is speed with transactions fully confirmed in about 60 seconds or less.

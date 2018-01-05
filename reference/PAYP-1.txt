@@ -1,1 +1,1 @@
-Live PayPeer prices from all markets and PAYP coin market Capitalization
+PayPeer is a Proof of Work/Proof of Stake cryptocurrency based on the X11 algorithm.

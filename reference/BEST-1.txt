@@ -1,1 +1,1 @@
-Live BestChain prices from all markets and BEST coin market Capitalization
+BestChain is an hybrid Proof of Work/Proof of Stake cryptocurrency based on the Scrypt algorithm.

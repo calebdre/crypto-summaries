@@ -1,1 +1,1 @@
-Sphere (SPHR) is a decentralized peer-to-peerpayment network, secured through a proof of stake (pos) consensus blockchain
+Sphere (SPHR) is a decentralized peer-to-peerpayment network, secured through a proof of stake (pos) consensus blockchain.

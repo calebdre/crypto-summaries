@@ -1,1 +1,1 @@
-Live MedicCoin prices from all markets and MDC coin market Capitalization
+MedicCoin is a PoW/PoS cryptocurrency that uses the scrypt hashing algorithm.

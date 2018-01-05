@@ -1,1 +1,1 @@
-Live CryptoPing prices from all markets and PING coin market Capitalization
+CryptoPing is an IM assistant bot that provides users with useful info and buy signals.

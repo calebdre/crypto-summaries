@@ -1,1 +1,1 @@
-Live Prizm prices from all markets and PZM coin market Capitalization.  Stay up to date with the latest Prizm price movements and forum discussion
+Prizm is a PoS cryptocurrency based on the NEXT core, built with the Java language open source..  The unique algorithm of PoS does not depend on any implementation of the “coin age” concept used by other PoS cryptocurrencies and is resistant to so-called nothing at stake attacks.

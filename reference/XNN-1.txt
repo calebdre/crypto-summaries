@@ -1,1 +1,1 @@
-Live Xenon prices from all markets and XNN coin market Capitalization
+Xenon is a project that aims to create an alternative blockchain from the EOS project open-source codebase.

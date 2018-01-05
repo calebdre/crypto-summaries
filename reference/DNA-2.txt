@@ -1,1 +1,1 @@
-Live Encrypgen prices from all markets and DNAcoin market Capitalization.  Stay up to date with the latest Encrypgen price movements and forum discussion
+Ecrypgen provides next generation software for securely storing, sharing, and protecting genomic data through the use of Gene-Chain, a private blockchain database create for the sole purpose of storing genomic data.  The sole currency for transactions within the Gene-Chain (among those who wish to share information) will be DNA token

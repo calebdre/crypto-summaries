@@ -1,1 +1,1 @@
-Live GlobalCoin prices from all markets and GLC coin market Capitalization.  Stay up to date with the latest GlobalCoin price movements and forum discussion
+Globalcoin (GLC) is a scrypt based PoW coin with 70,000,000 as a hard cap - the block time is 40 seconds and transaction confirmations are 8..  The block reward halves every year from 50 GLC - and difficulty retargets every block.

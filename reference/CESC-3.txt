@@ -1,1 +1,0 @@
-CryptoEscudo is the Portuguese crypto currency.  The block time is two minutes - the difficult retargets with the kimoto gravity well - the coin is proof of work and runs off scrypt - with a hard cap of 1 billion CESC units. 

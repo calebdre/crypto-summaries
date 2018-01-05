@@ -1,1 +1,0 @@
-Infinitecoin (IFC) is a peer-to-peer open source cryptocurrency that is based on Litecoin (which was in turn inspired by Bitcoin), except that it will have 1142. 86 times as many coins, and the difficulty with which coins are produced is adjusted more frequently. 

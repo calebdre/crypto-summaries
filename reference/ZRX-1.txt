@@ -1,1 +1,1 @@
-Live 0x prices from all markets and ZRX coin market Capitalization
+0x is an open protocol that facilitates the decentralized exchange of Ethereum-based tokens and assets.

@@ -1,1 +1,1 @@
-FantomNightCoin (FCN) is a CryptoNight algorithm based coin which is a 64-bit CPU only mineable coin.  There is a block time of sixty seconds and the block reward is controlled by a formula that decreases depending on the supply mined to date
+FantomNightCoin (FCN) is a CryptoNight algorithm based coin which is a 64-bit CPU only mineable coin..  There is a block time of sixty seconds and the block reward is controlled by a formula that decreases depending on the supply mined to date.

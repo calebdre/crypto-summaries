@@ -1,1 +1,1 @@
-Live BitTokens prices from all markets and BXT coin market Capitalization
+BitTokens is a cryptocurrency that aims to be an improved version of Bitcoin, with faster blocktimes and higher transaction capabilities.

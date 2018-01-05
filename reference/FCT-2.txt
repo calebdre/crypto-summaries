@@ -1,1 +1,1 @@
-Use the blockchain to power a remarkable range of applications, including audit systems, medical records, supply chain management, voting systems, property titles, legal applications, and financial systems.  See how real businesses and governments could use Factom
+Blockchain to Business and Governments Factom is a system for securing millions of real-time records in the blockchain with a single hash..  Businesses and governments can use Factom to simplify records management, record business processes, and address security and compliance issues.

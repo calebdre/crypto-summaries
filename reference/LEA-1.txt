@@ -1,1 +1,1 @@
-Live LeaCoin prices from all markets and LEA coin market Capitalization
+LeaCoin is a SHA256 Proof of Work cryptocurrency.

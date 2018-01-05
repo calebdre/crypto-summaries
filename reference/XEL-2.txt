@@ -1,1 +1,1 @@
-Live Elastic prices from all markets and XEL coin market Capitalization.  Stay up to date with the latest Elastic price movements and forum discussion
+Elastic is an open-source project that provides the infastructure for a decentralized supercomputer..  r, designed to carry out arbitrary tasks over the internet.

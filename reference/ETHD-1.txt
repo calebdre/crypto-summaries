@@ -1,1 +1,1 @@
-Live Ethereum Dark prices from all markets and ETHD coin market Capitalization
+Ethereum Dark is a simple PoW/PoS coin (mainly PoS) based on the Scrypt algorithm.

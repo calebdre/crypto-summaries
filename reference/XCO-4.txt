@@ -1,6 +1,0 @@
-No premine.  No IPO. 
-Block time: 60 seconds
-Difficulty retarget: every block
-Min transaction fee: 0. 01 XCO
-Confirmations: 10, maturity: 100
-P2P port: 14641, RPC port: 14642

@@ -1,1 +1,1 @@
-Live MMXVI prices from all markets and MMXVI coin market Capitalization
+MMXVI is a pure Proof of Work cryptocurrency using the Argon2 algorithm.

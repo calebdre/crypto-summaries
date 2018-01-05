@@ -1,1 +1,1 @@
-StartCoin (START) is a crypto currency that bases itself on a community project based idea in respect to crowd funding.  The coin is Proof of Work and based on Scrypt.  The total coin supply is capped at 84 million and the block reward halves each year
+StartCoin (START) is a crypto currency that bases itself on a community project based idea in respect to crowd funding..  The coin is Proof of Work and based on Scrypt..  The total coin supply is capped at 84 million and the block reward halves each year.

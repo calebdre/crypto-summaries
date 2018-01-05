@@ -1,1 +1,1 @@
-Live eBitcoin prices from all markets and EBTC coin market Capitalization
+eBitcoin (EBTC) is a community-driven and blockchain-enabled cryptocurrency working as an ERC20 token by leveraging the best attributes of both Bitcoin and Ethereum.

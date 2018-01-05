@@ -1,1 +1,1 @@
-Live Verify prices from all markets and CRED coin market Capitalization.  Stay up to date with the latest Verify price movements and forum discussion
+Verify is a distributed reputation protocol built for eCommerce.  It monitors and continually updates the reputation of the various parties involved in a transaction

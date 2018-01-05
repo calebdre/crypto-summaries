@@ -1,1 +1,1 @@
-Live AdToken prices from all markets and ADT coin market Capitalization
+AdChain is an Ethereum-based digital advertisement platform that aims to fix the fraudulent environment of online advertising namely bot traffic, malvertisements, trackers, spoofed domains, lack of coordination and systemic fraud.

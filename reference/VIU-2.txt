@@ -1,1 +1,1 @@
-Live Viuly prices from all markets and VIU coin market Capitalization.  Stay up to date with the latest Signatum price movements and forum discussion
+Viuly is a decentralized video sharing platform, leveraging the IPFS protocol for decentralized vídeo storage ..  VIU is an Ethereum-based ERC20 token that serves as a currency on Viuly's ecosystem.

@@ -1,1 +1,1 @@
-Live HexxCoin prices from all markets and HXX coin market Capitalization
+Hexxcoin is a Proof of Work cryptocurrency that uses the lyra2rev2 algorithm.

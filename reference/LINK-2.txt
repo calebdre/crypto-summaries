@@ -1,1 +1,1 @@
-Live ChainLink prices from all markets and LINK coin market Capitalization.  Stay up to date with the latest ChainLink price movements and forum discussion
+ChainLink is a blockchain-base middleware, acting as a bridge between cryptocurrency smart contracts and off-chain resources like data feeds, various web APIs, and traditional bank account payments..  This way, ChainLink allows Smart Contracts to communicate with external resources on their own.

@@ -1,1 +1,1 @@
-Live Independent Money System prices from all markets and IMS coin market Capitalization
+Independent Money System is a Proof of Work/Proof of Stake cryptocurrency based on the Scrypt algorithm, which is also used in Litecoin.

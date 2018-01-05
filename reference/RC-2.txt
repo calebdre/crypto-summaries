@@ -1,1 +1,1 @@
-Live Russiacoin prices from all markets and RC coin market Capitalization.  Stay up to date with the latest Russiacoin price movements and forum discussion
+Russiacoin is a Scrypt PoW/PoS cryptocurrency made for all people around the world and escpecially the russian altcoin-community..  Russiacoin will be the first coin to use the GDR (=golden readjustment algorithm) which is just similar to std.

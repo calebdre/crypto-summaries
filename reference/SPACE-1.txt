@@ -1,1 +1,1 @@
-Live SpaceCoin prices from all markets and SPACE coin market Capitalization
+SpaceCoin is a Proof of Work and Proof of Stake hybrid cryptocurrency based on the Scrypt hashing algorithm.

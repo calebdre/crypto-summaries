@@ -1,1 +1,1 @@
-Live OsmiumCoin prices from all markets and OS76 coin market Capitalization
+OsmiumCoin is a Proof of Work cryptocurrency based on the popular Scrypt algorithm.

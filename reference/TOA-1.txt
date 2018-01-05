@@ -1,1 +1,1 @@
-Live TOA Coin prices from all markets and TOA coin market Capitalization
+TOA Coin is a PoW/PoS cryptocurrency based on Scrypt algorithm.

@@ -1,1 +1,1 @@
-Live Elacoin prices from all markets and ELC coin market Capitalization.  Stay up to date with the latest Elacoin price movements and forum discussion
+Elacoin (ELC) is a digital currency, based on Bitcoin and Litecoin..  A scrypt proof of work coin with a 120 second block time and dynamic difficulty retargetting.

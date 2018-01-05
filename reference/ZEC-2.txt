@@ -1,1 +1,1 @@
-Live ZCash prices from all markets and ZEC coin market Capitalization.  Stay up to date with the latest ZCash price movements and forum discussion
+ZCash is a privacy driven cryptocurrency..  It uses the Equihash as an algorithm, which is an asymmetric memory-hard Proof of Work algorithm based on the generalized birthday problem.

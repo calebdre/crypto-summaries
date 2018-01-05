@@ -1,1 +1,1 @@
-Live Bulwark prices from all markets and BWK coin market Capitalization
+Bulwark is a PoW cryptocurrency based on NIST5 algorithm.

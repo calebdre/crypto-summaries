@@ -1,1 +1,1 @@
-Live PoSToken prices from all markets and POS coin market Capitalization.  Stay up to date with the latest PoSToken price movements and forum discussion
+PoSToken is the world's first Proof-of-Stake smart contract token on Ethereum platform..  It's based on the ERC20 Token Standard and implements all standard methods.

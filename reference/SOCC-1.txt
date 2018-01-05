@@ -1,1 +1,1 @@
-Live SocialCoin prices from all markets and SOCC coin market Capitalization
+SocialCoin is a Proof of Work cryptocurrency based on the Scrypt algorithm.

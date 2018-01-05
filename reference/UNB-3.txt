@@ -1,1 +1,0 @@
-Unbreakable Coin is a SHA-256 POW coin with a hard capped limit of 80 million UNB and a block time of 300 seconds.  There is a two step block reward with 50 coins for the first 800,000 blocks and 25 thereafter. 

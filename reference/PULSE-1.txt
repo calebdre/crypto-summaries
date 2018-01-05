@@ -1,1 +1,1 @@
-Live Pulse prices from all markets and PULSE coin market Capitalization
+Pulse is a Pow/PoS hybrid, that uses the algorithm SHA256D, developed from Bitcoin's algorithm.

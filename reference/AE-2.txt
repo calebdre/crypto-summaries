@@ -1,1 +1,1 @@
-Live Aeternity prices from all markets and AE coin market Capitalization.  Stay up to date with the latest Aeternity price movements and forum discussion
+Aeternity is a scalable blockchain platform that enables high bandwidth transacting, purely-functional smart contracts, and decentralized oracles..  The use of the blockchain is not free, and requires that the user spends a token called Aeon.

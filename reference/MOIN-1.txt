@@ -1,1 +1,1 @@
-Live MoinCoin prices from all markets and MOIN coin market Capitalization
+MoinCoin uses the Sha256d algorithm to provide secure and fast payments.

@@ -1,1 +1,1 @@
-Live B3 Coin prices from all markets and B3 coin market Capitalization
+B3 Coin is a Proof of Work/Proof of Stake cryptocurrency with a 6 minute block time.

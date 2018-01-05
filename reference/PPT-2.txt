@@ -1,1 +1,1 @@
-Live Populous prices from all markets and PPT coin market Capitalization.  Stay up to date with the latest Populous price movements and forum discussion
+Populous is an invoice and trade finance platform built on the Ethereum network..  Populous uses XBRL, Z Score formula, Smart Contracts, Stable tokens and other technologies in the cryptoshpere to create a unique trading environment for investors and invoice sellers.

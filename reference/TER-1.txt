@@ -1,1 +1,1 @@
-Live TerraNovaCoin prices from all markets and TER coin market Capitalization
+TerraNovaCoin is a PoS/PoW cryptocurrency based on the Scrypt algorithm.

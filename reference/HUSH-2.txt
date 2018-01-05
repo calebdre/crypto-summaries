@@ -1,1 +1,1 @@
-Live Hush prices from all markets and HUSH coin market Capitalization.  Stay up to date with the latest Hush price movements and forum discussion
+Hush is a private implementation of the Zerocash protocol forked from Zcash..  Based on Bitcoin's code, it intends to offer a far higher standard of privacy through a sophisticated zero-knowledge proving scheme that preserves confidentiality of transaction metadata.

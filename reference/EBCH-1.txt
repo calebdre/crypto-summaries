@@ -1,1 +1,1 @@
-Live eBitcoinCash prices from all markets and EBCH coin market Capitalization
+BitcoinCash has an issue with slow block times, ERC20 tokens don't have this issue and also have smart contract capability.

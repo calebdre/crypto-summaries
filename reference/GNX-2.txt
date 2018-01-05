@@ -1,0 +1,1 @@
+Genaro Network is an Ethereum-based storage network, providing blockchain developers a one-stop solution to deploy smart contracts and store data simultaneously..  One of the major components of the Hub is the Genaro Accelerator, a resident incubation and acceleration platform that supports the creation of the DAPPS that utilize the Genaro Network.

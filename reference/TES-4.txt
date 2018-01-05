@@ -1,1 +1,0 @@
-TeslaCoin (TES) is a Scrypt based crypto coin with a thirty second block time.  There are a total of 300 million coins to be mined and 172 coins per block initially, reducing by 18. 56% every thirty days. 

@@ -1,1 +1,1 @@
-Live Bitshares prices from all markets and BTS coin market Capitalization
+BitShares (BTS) was first introduced in a White Paper titled “A Peer-to-Peer Polymorphic Digital Asset Exchange” by Daniel Larimer, Charles Hoskinson, and Stan Larimer.

@@ -1,1 +1,1 @@
-Live FrazCoin prices from all markets and FRAZ coin market Capitalization
+FrazCoin is a Proof of Work cryptocurrency based on the Scrypt algorithm.

@@ -1,1 +1,1 @@
-TrustPlus (TRUST) is an X11 algorithm based crypto currency that has a short PoW phase of just under seven days
+TrustPlus (TRUST) is an X11 algorithm based crypto currency that has a short PoW phase of just under seven days.

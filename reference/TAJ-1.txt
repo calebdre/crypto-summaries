@@ -1,1 +1,1 @@
-Live TajCoin prices from all markets and TAJ coin market Capitalization
+TajCoin is a Proof of Work/Proof of Stake cryptocurrency based on the Blake2s algorithm.

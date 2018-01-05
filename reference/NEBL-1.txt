@@ -1,1 +1,1 @@
-Live Neblio prices from all markets and NEBL coin market Capitalization
+The Neblio Platform wants to provide fully open source APIs, tools, and services needed by business and enterprises to rapidly develop and deploy distributed applications.

@@ -1,1 +1,1 @@
-Ixcoin (IXC) is a fork of Bitcoin with twice the inflation rate of 96 Ixcoins per block and the same 21 million total limit
+Ixcoin (IXC) is a fork of Bitcoin with twice the inflation rate of 96 Ixcoins per block and the same 21 million total limit.

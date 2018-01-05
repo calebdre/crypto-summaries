@@ -1,1 +1,0 @@
-SecureCoin is a fast and secure cryptographic digital currency based on Bitcoin.  The specifications have been carefully chosen to maintain Bitcoins economic model of deflation

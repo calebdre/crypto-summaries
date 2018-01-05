@@ -1,1 +1,1 @@
-Live Smart Investment Fund Token prices from all markets and SIFT coin market Capitalization
+Smart Investment Fund Token (SIFT) is an ERC20-compliant smart contract within the Ethereum blockchain that pays dividends in ether monthly.

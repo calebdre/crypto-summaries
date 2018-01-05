@@ -1,1 +1,1 @@
-Live Voise prices from all markets and VSM coin market Capitalization
+The Voise is an Ethereum based music streaming platform.

@@ -1,1 +1,1 @@
-Live OmiseGo prices from all markets and OMG coin market Capitalization
+OmiseGO is building a decentralized exchange, liquidity provider mechanism, clearinghouse messaging network, and asset-backed blockchain gateway.

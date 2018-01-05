@@ -1,1 +1,1 @@
-Live Bread token prices from all markets and BRD coin market Capitalization
+Bread token is an ERC20 token, featuring a user friendly mobile app.

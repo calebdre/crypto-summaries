@@ -1,1 +1,1 @@
-Live Gas prices from all markets and GAS coin market Capitalization
+There are two built-in system assets: NEO and GAS.

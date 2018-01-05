@@ -1,1 +1,1 @@
-Live bitCNY prices from all markets and BITCNY coin market Capitalization
+bitCNY is a market pegged asset (MPA) issued on the Bitshares platform, these assets are known as bitassets or smartcoins.

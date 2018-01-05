@@ -1,1 +1,1 @@
-Live Propy prices from all markets and PRO coin market Capitalization
+Propy Utility Token (PRO) is built on the ERC20 token standard to allow for both simple integration into users’ wallets.

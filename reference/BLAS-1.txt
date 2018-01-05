@@ -1,1 +1,1 @@
-Live BlakeStar prices from all markets and BLAS coin market Capitalization
+BlakeStar is a PoW/PoS hybrid featuring the blake2s algorithm.

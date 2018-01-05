@@ -1,1 +1,0 @@
-YaCoin (YAC) was created in May 2013 - so not one of the later 2013 deluge of currencies.  It was also the first coin to introduce the Scypt-n parameter.  Reward is equal to 25 divided by the difficulty to the power of 1/6. 

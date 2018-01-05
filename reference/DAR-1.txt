@@ -1,1 +1,1 @@
-Live Darcrus prices from all markets and DAR coin market Capitalization
+Darcrus is an asset issued on the NXT blockchain that will allow its holders to receive rewards via disbursements that are assigned through a Proof of Holding reward system (which is similar to the master node payment system found in DASH).

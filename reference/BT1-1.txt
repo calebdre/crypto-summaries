@@ -1,1 +1,1 @@
-Live Bitfinex Bitcoin Future prices from all markets and BT1 coin market Capitalization
+BT1 is a ChainSplit Token ( CST ) issued by Bitfinex which is a token that resembles the price of BTC after the SegWit2x hardfork that is occuring block 494784 (Mid November, 2017).

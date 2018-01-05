@@ -1,1 +1,1 @@
-Live PeerCoin prices from all markets and PPC coin market Capitalization
+A peer-to-peer crypto-currency design derived from Satoshi Nakamoto's Bitcoin.

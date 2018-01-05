@@ -1,1 +1,1 @@
-Live Verium prices from all markets and VRM coin market Capitalization.  Stay up to date with the latest Verium price movements and forum discussion
+Verium is a cryptocurrency created by the developers of Vericoin..  Together, these two coins (Verium and Vericoin) create a system in which Vericoin acts as currency, due to its cheap transaction fees and faster block times, while Verium acts as a store of value due to its higher fees and slower blocktimes that dis-incentivize spending.

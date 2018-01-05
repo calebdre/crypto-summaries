@@ -1,1 +1,1 @@
-Live Monero prices from all markets and XMR coin market Capitalization.  Stay up to date with the latest Monero price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
+Monero (XMR) is a cryptonight algorithm based alternative crypto currency..  The coin is based on Proof of Work and has a block reward that varies smoothly..  The difficulty retargets every block with a sixty second block target.

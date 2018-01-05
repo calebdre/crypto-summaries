@@ -1,1 +1,1 @@
-Live ScryptToken prices from all markets and SCT coin market Capitalization.  Stay up to date with the latest ScryptToken price movements and forum discussion
+ScryptToken is a Proof of Work/Proof of Stake cryptocurrency using the Scrypt algorithm..  SCT has an APY of 5% in PoS rewards.

@@ -1,1 +1,1 @@
-Live BlockPay prices from all markets and BLOCKPAY coin market Capitalization.  Stay up to date with the latest BlockPay price movements and forum discussion
+Blockpay is a cryptocurrency point-of-sale system that allows merchants to easily receive cryptocurrency payments.  Blockpay supports Bitcoin, Bitshares, Ether, Litecoin, Dash, Dogecoin, Steem, and Peercoin

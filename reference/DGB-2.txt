@@ -1,1 +1,1 @@
-Live DigiByte prices from all markets and DGB coin market Capitalization.  Stay up to date with the latest DigiByte price movements and forum discussion
+A coin that has adopted the Bitcoin 21 figure but increased the supply to 21 billion - with over 5 algorithms to mine with (Scryt, Sha-256, Qubit, Skein, Groestl)  - in order to keep mining local and in the hands of many..  A 60 second block target, a 0.

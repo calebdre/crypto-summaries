@@ -1,1 +1,1 @@
-Live Populous prices from all markets and PPT coin market Capitalization
+Populous is an invoice and trade finance platform built on the Ethereum network.

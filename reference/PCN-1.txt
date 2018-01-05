@@ -1,1 +1,1 @@
-Live PeepCoin prices from all markets and PCN coin market Capitalization
+PeepCoin is a PoW/PoS cryptocurrency, currently in its PoS stage.

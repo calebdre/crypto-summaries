@@ -1,1 +1,1 @@
-Live BlueCoin prices from all markets and BLU coin market Capitalization
+BlueCoin (BLU) is a scrypt altcoin that is starts with a PoW phase lasting 100 days - and then switches to Proof of Stake.

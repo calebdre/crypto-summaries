@@ -1,1 +1,1 @@
-MintCoin is an innovative, secure and energy efficient PoW/PoS coin.  It uses a faster PoW distribution mechanism to distribute the initial coins, then after 5 weeks the coin is basically transferred to a pure PoS coin, where the generation of the coin is mainly through the PoS interests. 
+Mintcoin is a community owned and operated pure PoS coin..  Send your coins to your wallet and earn high yielding interest for saving your coins while securing the Mintcoin network..  There is no coin cap, in order to replace lost coins and provide sustainable global scalability.

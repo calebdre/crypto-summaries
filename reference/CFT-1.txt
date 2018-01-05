@@ -1,1 +1,1 @@
-Live CryptoForecast prices from all markets and CFT coin market Capitalization
+Cryptoforecast is a trading/invesment tool build both for new and experienced users.

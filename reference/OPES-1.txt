@@ -1,1 +1,1 @@
-Live Opes prices from all markets and OPES coin market Capitalization
+Opes is a Proof of Work cryptocurrency based on the Argon2 algorithm.

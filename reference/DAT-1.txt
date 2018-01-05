@@ -1,1 +1,1 @@
-Live Datum prices from all markets and DAT coin market Capitalization
+The Datum network will provide a way to monetize data, enabling anyone to buy or sell stored information while enforcing data usage rules set by the owner of the data at hand.

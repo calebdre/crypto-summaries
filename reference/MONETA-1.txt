@@ -1,1 +1,1 @@
-Live Moneta prices from all markets and MONETA coin market Capitalization
+Moneta is a Proof of Work cryptocurrency using Scrypt as an hashing algorithm.

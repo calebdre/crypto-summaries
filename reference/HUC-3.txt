@@ -1,1 +1,1 @@
-HunterCoin is a hybrid of scrypt and SHA-256 and Scrypt having two difficulties.  42 million HUC's are to be mined or farmed with a block time of 60 seconds.  80% of all coins are distributed in the game and the difficulty retargets each block
+HunterCoin is a hybrid of scrypt and SHA-256 and Scrypt having two difficulties..  42 million HUC's are to be mined or farmed with a block time of 60 seconds..  80% of all coins are distributed in the game and the difficulty retargets each block.

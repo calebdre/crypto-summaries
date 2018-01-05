@@ -1,1 +1,1 @@
-Live DeepOnion prices from all markets and ONION coin market Capitalization.  Stay up to date with the latest DeepOnion price movements and forum discussion
+DeepOnion is a cryptocurrency that uses of the X13 proof of work (PoW) consensus as well as proof of stake (PoS)..  It is natively integrated with the TOR network and always starts with TOR network.

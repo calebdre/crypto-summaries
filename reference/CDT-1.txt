@@ -1,1 +1,1 @@
-Live CoinDash prices from all markets and CDT coin market Capitalization
+Coindash​ is an operating system for blockchain-based assets, it has the goal of making handling and trading easy and accessible for both new and experienced users in the cryptoshpere.

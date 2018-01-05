@@ -1,1 +1,1 @@
-Live CryptoCarbon prices from all markets and CCRB coin market Capitalization.  Stay up to date with the latest CryptoCarbon price movements and forum discussion
+CryptoCarbon is an Ethereum-based token issued using the EToken Protocol, which is a set of Ethereum smart contracts..  It has a adjustable token supply.

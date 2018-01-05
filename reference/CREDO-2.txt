@@ -1,1 +1,1 @@
-Live Credo prices from all markets and CREDO coin market Capitalization.  Stay up to date with the latest Credo price movements and forum discussion
+Credo is an email management platform that aims to mitigate the email spam..  In order to achieve this Credo Team will implement a software to filter emails from unknown contacts and provide a payment mechanism for email receipt or response, named as BitBounce.

@@ -1,1 +1,1 @@
-Live Creditbit prices from all markets and CRB coin market capitalization
+Creditbit is an ERC20 token.

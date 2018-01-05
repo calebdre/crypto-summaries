@@ -1,1 +1,1 @@
-Live InflationCoin prices from all markets and IFLT coin market Capitalization
+InflationCoin is a PoW/PoS with random super block rewards.

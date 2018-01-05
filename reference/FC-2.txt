@@ -1,1 +1,1 @@
-Live Facecoin prices from all markets and FC coin market Capitalization.  Stay up to date with the latest Facecoin price movements and forum discussion
+FaceCoin is aiming to bring the decentralized web to everyday users without the need of additional software beyond a web browser..  Smart contracts and an extended IPFS, where the data will be stored without a central data point, ensure the nodes have zero knowledge about the users of the platform, and that they are not able to read messages and content.

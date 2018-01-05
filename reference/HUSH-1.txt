@@ -1,1 +1,1 @@
-Live Hush prices from all markets and HUSH coin market Capitalization
+Hush is a private implementation of the Zerocash protocol forked from Zcash.

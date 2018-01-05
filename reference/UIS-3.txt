@@ -1,1 +1,0 @@
-Unitus allows users to mine via the algorithm of their choice.  The website however has not been working for some time. 

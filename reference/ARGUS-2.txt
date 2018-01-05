@@ -1,1 +1,1 @@
-Live ArgusCoin prices from all markets and ARGUS coin market Capitalization.  Stay up to date with the latest ArgusCoin price movements and forum discussion
+Argus is an open source layer P2P accounting & auditing tool and is used to help support network security management and network forensics..  ARGUS is the underlying asset in the Argus platform.

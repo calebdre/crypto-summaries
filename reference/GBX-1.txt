@@ -1,1 +1,1 @@
-Live GoByte prices from all markets and GBX coin market Capitalization
+GoByte is an ASIC resistant PoW cryptocurrency using the NeoScrypt hashing algorithm.

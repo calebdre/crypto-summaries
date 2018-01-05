@@ -1,1 +1,1 @@
-Live Byteball prices from all markets and GBYTE coin market Capitalization.  Stay up to date with the latest Byteball price movements and forum discussion
+Byteball is a decentralized database with it's own native cryptocurrency, Bytes, that unlike most does not require PoW or PoS mining and does not have a blockchain nor blocks..  Instead, Byteball links transactions by signing the hashes from the previous transactions on the new one.

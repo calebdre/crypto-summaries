@@ -1,1 +1,1 @@
-Live BitAsean prices from all markets and BAS coin market Capitalization
+BitAsean is an ERC20 token created to serve as a payment solution in the Association of Southeast Asian Nations (ASEAN) region.

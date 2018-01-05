@@ -1,1 +1,1 @@
-Live WomenCoin prices from all markets and WOMEN coin market Capitalization
+WomenCoin is a PoW/PoS hybrid cryptocurrency based on the Scrypt algorithm.

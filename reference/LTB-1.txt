@@ -1,1 +1,1 @@
-Litebar is another Scrypt Litecoin clone
+Litebar is another Scrypt Litecoin clone.

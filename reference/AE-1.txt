@@ -1,1 +1,1 @@
-Live Aeternity prices from all markets and AE coin market Capitalization
+Aeternity is a scalable blockchain platform that enables high bandwidth transacting, purely-functional smart contracts, and decentralized oracles.

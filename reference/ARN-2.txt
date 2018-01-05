@@ -1,1 +1,1 @@
-Live Aeron prices from all markets and ARN coin market Capitalization.  Stay up to date with the latest Aeron price movements and forum discussion
+The solution that Aeron proposes, relies on blockchain technology to track aircraft maintenance and pilot logs..  Aeron is constructing a database and an online system that is decentralized and hosts global data on aircraft, flight schools and pilots.

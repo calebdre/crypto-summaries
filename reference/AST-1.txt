@@ -1,1 +1,1 @@
-Live AirSwap prices from all markets and AST coin market Capitalization
+The Swap protocol provides a peer-to-peer methodology to exchange assets on the Ethereum blockchain.

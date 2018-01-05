@@ -1,1 +1,1 @@
-HunterCoin is a hybrid of scrypt and SHA-256 and Scrypt having two difficulties
+HunterCoin is a hybrid of scrypt and SHA-256 and Scrypt having two difficulties.

@@ -1,1 +1,0 @@
-Sprouts is an SHA256D based hybrid proof of work and proof of stake crypto currency. 

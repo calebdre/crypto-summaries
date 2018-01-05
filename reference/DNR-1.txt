@@ -1,1 +1,1 @@
-Live Denarius prices from all markets and DNR coin market Capitalization
+Denarius is a PoW/PoS hybrid cryptocurrency based off the original Satoshi Core codebase.

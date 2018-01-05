@@ -1,1 +1,1 @@
-Live Viuly prices from all markets and VIU coin market Capitalization
+Viuly is a decentralized video sharing platform, leveraging the IPFS protocol for decentralized vídeo storage .

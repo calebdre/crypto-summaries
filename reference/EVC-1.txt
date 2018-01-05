@@ -1,1 +1,1 @@
-Live Eventchain prices from all markets and EVC coin market Capitalization
+EventChain is a decentralized network that aimed at improving the ticketing industry, providing the additional benefits of using a blockchain as the a transaction and incentive layer.

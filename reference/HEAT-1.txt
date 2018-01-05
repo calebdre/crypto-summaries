@@ -1,1 +1,1 @@
-Live Heat Ledger prices from all markets and HEAT coin market Capitalization
+Heat Ledger is a cryptocurrency written in Java that aims to solve scalability problems associated with Bitcoin and other cryptocurrencies.

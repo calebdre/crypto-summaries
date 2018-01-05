@@ -1,1 +1,1 @@
-Live Gas prices from all markets and GAS coin market Capitalization.  Stay up to date with the latest Gas price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
+There are two built-in system assets: NEO and GAS..  NEO represent the ownership of the blockchain, which is used for electoral accounting, to obtain GAS dividends, etc..  GAS represents the right to use the blockchain, and are used to pay fees of various systems on the chain.

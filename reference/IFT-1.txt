@@ -1,1 +1,1 @@
-Live InvestFeed prices from all markets and IFT coin market Capitalization
+InvestFeed is currently a cross-platform social trading platform in production for US Equities, available on Browser, Native iOS, and Native Android.

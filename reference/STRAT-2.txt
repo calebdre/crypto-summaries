@@ -1,1 +1,1 @@
-Live Stratis price from all markets and STRAT coin market Capitalization.  Stay up to date with the latest Stratis price movements and forum discussion
+Stratis is the native value currency in the Stratis Platform, it fuels the creation of private and public custom blockchains for corporate use..  The Stratis Platform offers a one-click deployment system for custom blockchain deployment.

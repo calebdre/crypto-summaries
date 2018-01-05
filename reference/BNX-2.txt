@@ -1,1 +1,1 @@
-Live BnrtxCoin prices from all markets and BNX coin market Capitalization.  Stay up to date with the latest BnrtxCoin price movements and forum discussion
+BnrtxCoin is a Proof of Work cryptocurrency based on the X11 algorithm..  It's meant to be used as a payment system for the BnR Technix website.

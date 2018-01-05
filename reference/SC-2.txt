@@ -1,1 +1,1 @@
-Siacoin is an actively developed decentralized storage platform.  Users all over the world contribute disk storage from their computers to form a decentralized network
+Sia is an actively developed decentralized storage platform..  Users all over the world contribute disk storage from their computers to form a decentralized network.

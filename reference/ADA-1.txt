@@ -1,1 +1,1 @@
-Live Cardano prices from all markets and ADA coin market Capitalization
+Designed and developed by IOHK in conjunction with the University of Edinburgh, the University of Athens and the University of Connecticut, C ardano SL (or Cardano Settlement Layer) is a Proof of Stake cryptocurrency based on the Haskell implementation of the white paper “Ouroboros: A Provably Secure Proof of Stake Blockchain Protocol” by Aggelos Kiayias, Alexander Russell, Bernardo David and Roman Oliynykov.

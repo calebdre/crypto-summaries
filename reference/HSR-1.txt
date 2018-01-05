@@ -1,1 +1,1 @@
-Live Hshare prices from all markets and HSR coin market Capitalization
+Hshare is a dual network blockchain comprised both of a blockchain-based network and a DAG-based network.

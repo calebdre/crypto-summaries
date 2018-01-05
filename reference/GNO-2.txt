@@ -1,1 +1,1 @@
-Live Gnosis prices from all markets and GNO coin market Capitalization.  Stay up to date with the latest Gnosis price movements and forum discussion
+Gnosis is a decentralized prediction market built on the Ethereum protocol..  Gnosis provides an open platform for anyone to predict the outcome of any event and plans to drastically simplify the creation of customized prediction market applications.

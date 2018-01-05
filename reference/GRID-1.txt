@@ -1,1 +1,1 @@
-Live Grid+ prices from all markets and GRID coin market Capitalization
+Grid+ created a computer (called Grid+ Smart agent) with natively integrated hardware and software for the Ethereum protocol, that pays for a customer's electricity usage in real time.
