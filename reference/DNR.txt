@@ -1,4 +1,2 @@
-Live Denarius prices from all markets and DNR coin market Capitalization
-Live Denarius prices from all markets and DNR coin market Capitalization.  Stay up to date with the latest Denarius price movements and forum discussion
-Live Denarius prices from all markets and DNR coin market Capitalization.  Stay up to date with the latest Denarius price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live Denarius prices from all markets and DNR coin market Capitalization.  Stay up to date with the latest Denarius price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+Denarius is a PoW/PoS hybrid cryptocurrency based off the original Satoshi Core codebase.
+Denarius is a PoW/PoS hybrid cryptocurrency based off the original Satoshi Core codebase.. It uses: Tribus Proof-of-Work Hashing Algorithm featuring 3 of the top NIST5 algos (JH, Keccak, and Echo).

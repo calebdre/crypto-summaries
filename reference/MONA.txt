@@ -1,11 +1,2 @@
-Monacoin is a peer-to-peer payment network and digital currency based on an open source protocol
-Monacoin is a peer-to-peer payment network and digital currency based on an open source protocol. 
-- scrypt
-- 1
-Monacoin is a peer-to-peer payment network and digital currency based on an open source protocol. 
-- scrypt
-- 1. 5 minute block targets
-- subsidy halves in 1051k blocks (~3 years)
-- 105,120,000 total coins
-- 50 coins per block
-- DigiShield difficulty algorithm
+Monacoin is a peer-to-peer payment network and digital currency based on an open source protocol.
+Monacoin is a peer-to-peer payment network and digital currency based on an open source protocol..  - scrypt - 1.

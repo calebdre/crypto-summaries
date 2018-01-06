@@ -1,4 +1,3 @@
-Live MyriadCoin prices from all markets and XMY coin market Capitalization
-Live MyriadCoin prices from all markets and XMY coin market Capitalization.  Stay up to date with the latest MyriadCoin price movements and forum discussion
-Live MyriadCoin prices from all markets and XMY coin market Capitalization.  Stay up to date with the latest MyriadCoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live MyriadCoin prices from all markets and XMY coin market Capitalization.  Stay up to date with the latest MyriadCoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+Myriad uses five proof of work algorithms for one coin which can be chosen by the user - Scrypt, SHA-256D.
+Myriad uses five proof of work algorithms for one coin which can be chosen by the user - Scrypt, SHA-256D..  QuBit, Skein and Groestl.
+Myriad uses five proof of work algorithms for one coin which can be chosen by the user - Scrypt, SHA-256D..  QuBit, Skein and Groestl..  The coin has a block time of 2.

@@ -1,4 +1,3 @@
-InkaCoin is a hybrid Proof of Work and Proof of Stake SHA-256 alternative crypto currency
-InkaCoin is a hybrid Proof of Work and Proof of Stake SHA-256 alternative crypto currency.  There is a 60 second block time target and a 5 block difficulty retargetting
-InkaCoin is a hybrid Proof of Work and Proof of Stake SHA-256 alternative crypto currency.  There is a 60 second block time target and a 5 block difficulty retargetting.  The total number of coins is limited to 190 million NKA
-InkaCoin is a hybrid Proof of Work and Proof of Stake SHA-256 alternative crypto currency.  There is a 60 second block time target and a 5 block difficulty retargetting.  The total number of coins is limited to 190 million NKA. 
+InkaCoin is a hybrid Proof of Work and Proof of Stake SHA-256 alternative crypto currency.
+InkaCoin is a hybrid Proof of Work and Proof of Stake SHA-256 alternative crypto currency..  There is a 60 second block time target and a 5 block difficulty retargetting.
+InkaCoin is a hybrid Proof of Work and Proof of Stake SHA-256 alternative crypto currency..  There is a 60 second block time target and a 5 block difficulty retargetting..  The total number of coins is limited to 190 million NKA.

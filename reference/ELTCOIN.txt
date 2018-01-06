@@ -1,4 +1,3 @@
-Live ELTCOIN prices from all markets and ELTCOIN market Capitalization
-Live ELTCOIN prices from all markets and ELTCOIN market Capitalization.  Stay up to date with the latest ELTCOIN price movements and forum discussion
-Live ELTCOIN prices from all markets and ELTCOIN market Capitalization.  Stay up to date with the latest ELTCOIN price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live ELTCOIN prices from all markets and ELTCOIN market Capitalization.  Stay up to date with the latest ELTCOIN price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+ELTCOIN is an ERC-20 token based on the Ethereum network.
+ELTCOIN is an ERC-20 token based on the Ethereum network..  ELTCOIN team will use the OpenZeppelin framework to build their smart contracts.
+ELTCOIN is an ERC-20 token based on the Ethereum network..  ELTCOIN team will use the OpenZeppelin framework to build their smart contracts..  Furthermore, the team aims to provide a mobile wallet and a marketplace to exchange cryptocurrencies for real, tangible assets.

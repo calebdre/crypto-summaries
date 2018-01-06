@@ -1,4 +1,2 @@
-Live FlutterCoin prices from all markets and FLT coin market Capitalization
-Live FlutterCoin prices from all markets and FLT coin market Capitalization.  Stay up to date with the latest FlutterCoin price movements and forum discussion
-Live FlutterCoin prices from all markets and FLT coin market Capitalization.  Stay up to date with the latest FlutterCoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live FlutterCoin prices from all markets and FLT coin market Capitalization.  Stay up to date with the latest FlutterCoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+Flutter coin introduces another design element through its proof of transaction.
+Flutter coin introduces another design element through its proof of transaction..  It has a block reward that stabilises at 20 after a block height of 332838 so there is no hardcoded cap in place.

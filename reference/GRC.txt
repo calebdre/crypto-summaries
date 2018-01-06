@@ -1,4 +1,3 @@
-GridCoin (GRC) is a coin with a mission - to compensate miners for participating in BOINC projects
-GridCoin (GRC) is a coin with a mission - to compensate miners for participating in BOINC projects.  The coin is a scrypt altcoin with difficulty retargetting every 30 minutes - a 2
-GridCoin (GRC) is a coin with a mission - to compensate miners for participating in BOINC projects.  The coin is a scrypt altcoin with difficulty retargetting every 30 minutes - a 2. 5 minute block target and a hard cap of 168 million
-GridCoin (GRC) is a coin with a mission - to compensate miners for participating in BOINC projects.  The coin is a scrypt altcoin with difficulty retargetting every 30 minutes - a 2. 5 minute block target and a hard cap of 168 million. 
+GridCoin (GRC) is a coin with a mission - to compensate miners for participating in BOINC projects.
+GridCoin (GRC) is a coin with a mission - to compensate miners for participating in BOINC projects..  The coin is a scrypt altcoin with difficulty retargetting every 30 minutes - a 2.
+GridCoin (GRC) is a coin with a mission - to compensate miners for participating in BOINC projects..  The coin is a scrypt altcoin with difficulty retargetting every 30 minutes - a 2.. 5 minute block target and a hard cap of 168 million.

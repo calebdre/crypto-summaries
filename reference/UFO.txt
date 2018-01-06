@@ -1,3 +1,2 @@
-UFO Coin is an experimental decentralized virtual currency based on the Bitcoin protocol
-UFO Coin is an experimental decentralized virtual currency based on the Bitcoin protocol.  It offers safe and fast peer to peer transactions at extremely low fees enabling trade without the need of a third party
-UFO Coin is an experimental decentralized virtual currency based on the Bitcoin protocol.  It offers safe and fast peer to peer transactions at extremely low fees enabling trade without the need of a third party. 
+UFO Coin or Uniform Fiscal Object is a PoW cryptocurrency based on the Neoscrypt algorithm
+UFO Coin or Uniform Fiscal Object is a PoW cryptocurrency based on the Neoscrypt algorithm. 

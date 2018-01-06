@@ -1,4 +1,3 @@
-Live Qtum prices from all markets and QTUM coin market Capitalization
-Live Qtum prices from all markets and QTUM coin market Capitalization.  Stay up to date with the latest Qtum price movements and forum discussion
-Live Qtum prices from all markets and QTUM coin market Capitalization.  Stay up to date with the latest Qtum price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live Qtum prices from all markets and QTUM coin market Capitalization.  Stay up to date with the latest Qtum price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+Qtum is a decentralized blockchain platform with dApp and turing-coplete smart contract functionalities while still mantaining a an Unspent Transaction Output (UTXO) transaction model.
+Qtum is a decentralized blockchain platform with dApp and turing-coplete smart contract functionalities while still mantaining a an Unspent Transaction Output (UTXO) transaction model..  Qtum employs a Proof of Stake consensus mechanism.
+Qtum is a decentralized blockchain platform with dApp and turing-coplete smart contract functionalities while still mantaining a an Unspent Transaction Output (UTXO) transaction model..  Qtum employs a Proof of Stake consensus mechanism..  QTUM is the underlying value token in the Qtum blockchain.

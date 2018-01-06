@@ -1,4 +1,3 @@
-Live BitcoinFast prices from all markets and BCF coin market Capitalization
-Live BitcoinFast prices from all markets and BCF coin market Capitalization.  Stay up to date with the latest BitcoinFast price movements and forum discussion
-Live BitcoinFast prices from all markets and BCF coin market Capitalization.  Stay up to date with the latest BitcoinFast price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live BitcoinFast prices from all markets and BCF coin market Capitalization.  Stay up to date with the latest BitcoinFast price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+BitCoinFast is a PoW/PoS cryptocurrency created to be a faster version of Bitcoin.
+BitCoinFast is a PoW/PoS cryptocurrency created to be a faster version of Bitcoin..  It has a 60 second block time and uses the Scrypt algorithm.
+BitCoinFast is a PoW/PoS cryptocurrency created to be a faster version of Bitcoin..  It has a 60 second block time and uses the Scrypt algorithm..  BCF has 33 Million POW Coins and a 25% Annual Stake.

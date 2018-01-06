@@ -1,4 +1,3 @@
-Live PoSToken prices from all markets and POS coin market Capitalization
-Live PoSToken prices from all markets and POS coin market Capitalization.  Stay up to date with the latest PoSToken price movements and forum discussion
-Live PoSToken prices from all markets and POS coin market Capitalization.  Stay up to date with the latest PoSToken price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live PoSToken prices from all markets and POS coin market Capitalization.  Stay up to date with the latest PoSToken price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+PoSToken is the world's first Proof-of-Stake smart contract token on Ethereum platform.
+PoSToken is the world's first Proof-of-Stake smart contract token on Ethereum platform..  It's based on the ERC20 Token Standard and implements all standard methods.
+PoSToken is the world's first Proof-of-Stake smart contract token on Ethereum platform..  It's based on the ERC20 Token Standard and implements all standard methods..  Furthermore, the idea behind PoSToken is not only to issue a simple Ethereum Token with Proof-of-Stake mechanism but also to define a brand new Token Standard for Proof-of-Stake tokens.

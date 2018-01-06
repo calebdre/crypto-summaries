@@ -1,12 +1,3 @@
-No premine
-No premine.  No IPO
-No premine.  No IPO. 
-Block time: 60 seconds
-Difficulty retarget: every block
-Min transaction fee: 0
-No premine.  No IPO. 
-Block time: 60 seconds
-Difficulty retarget: every block
-Min transaction fee: 0. 01 XCO
-Confirmations: 10, maturity: 100
-P2P port: 14641, RPC port: 14642
+XCO is an ultra hybrid crypto currencies that was compiled from best altcoins, and bitcoin, allowing the ultra fast transactions to anyone anywhere in the world.
+XCO is an ultra hybrid crypto currencies that was compiled from best altcoins, and bitcoin, allowing the ultra fast transactions to anyone anywhere in the world..  Allowing you full control over your own balances.
+XCO is an ultra hybrid crypto currencies that was compiled from best altcoins, and bitcoin, allowing the ultra fast transactions to anyone anywhere in the world..  Allowing you full control over your own balances..  X-Coin info: Ticker: XCO Release Date: February 27, 2015 Release Location: Bitcointalk.

@@ -1,4 +1,2 @@
-Live AirSwap prices from all markets and AST coin market Capitalization
-Live AirSwap prices from all markets and AST coin market Capitalization.  Stay up to date with the latest AirSwap price movements and forum discussion
-Live AirSwap prices from all markets and AST coin market Capitalization.  Stay up to date with the latest AirSwap price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live AirSwap prices from all markets and AST coin market Capitalization.  Stay up to date with the latest AirSwap price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+The Swap protocol provides a peer-to-peer methodology to exchange assets on the Ethereum blockchain.
+The Swap protocol provides a peer-to-peer methodology to exchange assets on the Ethereum blockchain..  AirSwap is an ERC20 token that will have two functionalities, signal the intention to buy or sell Ethereum-based tokens and to give voting power to the traders providing managing capabilities to the roles of Oracles within the platform.

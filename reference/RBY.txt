@@ -1,3 +1,3 @@
-RubyCoin is another precious gemstone coin - like Emerald or Diamond (EMD - DMD)
-RubyCoin is another precious gemstone coin - like Emerald or Diamond (EMD - DMD).  The coin is a scrypt algorithm based currency with a block time of 150 seconds and difficulty retargetting every block
-RubyCoin is another precious gemstone coin - like Emerald or Diamond (EMD - DMD).  The coin is a scrypt algorithm based currency with a block time of 150 seconds and difficulty retargetting every block. 
+RubyCoin is another precious gemstone coin - like Emerald or Diamond (EMD - DMD).
+RubyCoin is another precious gemstone coin - like Emerald or Diamond (EMD - DMD)..  The coin is a scrypt algorithm based currency with an average block time of 90 seconds and difficulty retargetting every block.
+RubyCoin is another precious gemstone coin - like Emerald or Diamond (EMD - DMD)..  The coin is a scrypt algorithm based currency with an average block time of 90 seconds and difficulty retargetting every block..  The maximum supply is limited to 60 million, and the block reward halves each month for the first five months from 500 RBY to 50 RBY.

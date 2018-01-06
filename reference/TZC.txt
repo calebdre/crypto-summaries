@@ -1,4 +1,2 @@
-Live TrezarCoin prices from all markets and TZC coin market Capitalization
-Live TrezarCoin prices from all markets and TZC coin market Capitalization.  Stay up to date with the latest TrezarCoin price movements and forum discussion
-Live TrezarCoin prices from all markets and TZC coin market Capitalization.  Stay up to date with the latest TrezarCoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live TrezarCoin prices from all markets and TZC coin market Capitalization.  Stay up to date with the latest TrezarCoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+TrezorCoin is a proof of work cryptocurrency supporting multi-algo mining through PoS and PoW.
+TrezorCoin is a proof of work cryptocurrency supporting multi-algo mining through PoS and PoW..  It uses NeoScrypt PoW, Sha256d PoS and BLAKE2s for Blockhashing and has implemented 0% PoS by Ghostlander.
