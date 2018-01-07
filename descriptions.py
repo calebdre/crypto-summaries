@@ -3,6 +3,7 @@ import re
 from pyquery import PyQuery as pq
 import json
 import os
+from fetch_coin_data import get_market_cap_data, get_crypto_compare_coin_list
 
 def get_description(url):
 	page = requests.get(url).text
@@ -25,26 +26,12 @@ def get_description(url):
 
 	text = pq(descriptionHtml).text()
 	return ".".join(text.split(".")[0:4])
-	
-
-def get_market_cap_data():
-	pages = 5
-	num_of_coins = 1385
-	coins_per_page = num_of_coins / pages
-	data = []
-	for i in range(pages):
-		url = "https://api.coinmarketcap.com/v1/ticker/?start=" + str(i * coins_per_page) + "0&limit=" + str(coins_per_page)
-		print("getting " + url)
-		market_cap = requests.get(url)
-		data += market_cap.json()
-
-	return data
 
 def init():
 	print("Fetching coinmarketcap")
 	market_cap = get_market_cap_data()
 	print("Fetching crypto compare")
-	crypto_compare_coins = requests.get("https://min-api.cryptocompare.com/data/all/coinlist").json()
+	crypto_compare_coins = get_crypto_compare_coin_list()
 	print("transforming market cap data")
 	market_cap = [c["symbol"] for c in market_cap]
 	print("transforming crypto compare data")
@@ -57,14 +44,11 @@ def init():
 			continue
 		collected_files.append(f.split("-")[0])
 
-	missing_from_market_cap = list(set(market_cap) - set(collected_files))
-	missing_from_crypto_compare = list(set(crypto_compare_coin_names) - set(collected_files))
-
 	market_cap_crypto_compare_shared = list(set(crypto_compare_coin_names) & set(market_cap))
 	missing_from_shared = list(set(market_cap_crypto_compare_shared) - set(collected_files))
 
-	print(str(len(missing_from_shared)) + " coins are missing from shared.")
-	print("fetching them now.")
+	print("\n\n" + str(len(missing_from_shared)) + " coins are missing from shared.")
+	print("fetching them now.\n\n")
 	no_descriptions = []
 	missing_coins = [crypto_compare_coins["Data"][coin] for coin in missing_from_shared]
 	for i, coin in enumerate(missing_coins):
@@ -87,6 +71,7 @@ def init():
 			with open(filename, 'w') as the_file:
 				print("Writing " + str(i) + " lines to " + filename)
 				the_file.write(sentences)
+
 	print("\n\nThere are not descriptions for these coins: " + ",".join(no_descriptions))
 
 if __name__ == "__main__":

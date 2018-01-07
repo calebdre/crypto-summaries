@@ -27,6 +27,7 @@ def generate_all_summaries_file(coin, lines):
 
 output_file_content = ["<h1>An API for short summaries of key features of all crypto currencies</h1>"]
 output_file_content.append("<ul>")
+output_file_content.append("<li><a target='_blank' href='https://s3.amazonaws.com/crypto-summaries/all_coins'>All coins (json)</a></li>")
 
 reference_file_map = {}
 
@@ -40,6 +41,7 @@ for f in reference_files:
 		reference_file_map[coin] = [line]
 	else:
 		reference_file_map[coin].append(line)
+
 
 for key in sorted(reference_file_map.keys()):
 	links = ["<a target='_blank' href='" + get_file(key, lambda: "-" + line) + "'>" + line + "</a>" for line in reference_file_map[key]]
