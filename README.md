@@ -2,18 +2,17 @@
 
 If you automate crypto currency trading, and send out reports, you might want a summary of what a coin does, is it a coin that's for advertising? Gaming? Paying coffee?
 
-This project tries to provide the simplest possible API to get a summary of a coin. Summaries come from [coinmarketcap](https://coinmarketcap.com/) and [cryptocompare](cryptocompare.com)
+This project tries to provide the simplest possible API to get a summary of a coin. Summaries come from [coinmarketcap](https://coinmarketcap.com/) and [cryptocompare](http://cryptocompare.com)
 
-Check out [krausefx.github.io/crypto-summaries](https://krausefx.github.io/crypto-summaries/) for a list of the available summaries.
-
+Check out [calebdre.github.io/crypto-summaries](https://calebdre.github.io/crypto-summaries/) for a list of the available summaries.
+Check out [https://s3.amazonaws.com/crypto-summaries/](https://s3.amazonaws.com/crypto-summaries/all_coins) to view all the current available coins.
 ## State of the project
 
-This is a super early version of what this might look like, of course there is not a ton of content here yet. Feel free to check out the existing, supported coins on [krausefx.github.io/crypto-summaries](https://krausefx.github.io/crypto-summaries/) and [contribute more on GitHub directly](#how-can-i-contribute).
+This is a super early version of what this might look like, of course there is not a ton of content here yet. Feel free to check out the existing, supported coins on [calebdre.github.io/crypto-summaries](https://calebdre.github.io/crypto-summaries/) and [contribute more on GitHub directly](#how-can-i-contribute).
 
 ## How to use the API
 
 ### Access the summary of Bitcoin:
-
 - **1 line summary**: [https://krausefx.github.io/crypto-summaries/coins/btc-1.txt](https://krausefx.github.io/crypto-summaries/coins/btc-1.txt)
 - **3 lines summary**: [https://krausefx.github.io/crypto-summaries/coins/btc-3.txt](https://krausefx.github.io/crypto-summaries/coins/btc-3.txt)
 - **5 lines summary**: [https://krausefx.github.io/crypto-summaries/coins/btc-5.txt](https://krausefx.github.io/crypto-summaries/coins/btc-5.txt)
