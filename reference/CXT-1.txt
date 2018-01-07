@@ -1,0 +1,1 @@
+Coinonat is a Proof of Cryptocurrency based on the x algorithm, an ASIC-Resistant algorithm that garantees a minimum of three to four years before any ASIC can be invented.

@@ -1,0 +1,1 @@
+Hybrid of NameCoin and PPCoin..  More focused on the production of coins by PoS than PoW.

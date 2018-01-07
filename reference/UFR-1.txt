@@ -1,0 +1,1 @@
+Upfiring is an ERC20 token based on the Ethereum network.

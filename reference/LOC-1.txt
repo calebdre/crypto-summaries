@@ -1,0 +1,1 @@
+Loco is a PoW/PoS hybrid cryptocurrency using the Quark algorithm.

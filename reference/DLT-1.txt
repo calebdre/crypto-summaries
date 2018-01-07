@@ -1,0 +1,1 @@
+Agrello has developed an AI powered interface, that allows users to easily create and manage smart-contract-based agreements which are legally binding, just like traditional contracts.

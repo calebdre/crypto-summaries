@@ -1,0 +1,1 @@
+MinCoin is a peer-to-peer cryptocurrency using scrypt as a proof-of-work algorithm..  Mincoin stands for 'minimalist' coin, and it bills itself as the 'one-minute coin' thanks to its one-minute block time.

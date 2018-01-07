@@ -1,0 +1,1 @@
+Starbase is a blockchain-based crowdfunding platform.

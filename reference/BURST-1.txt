@@ -1,0 +1,1 @@
+Burst uses a new algorithm for proof of hdd capacity (POC) mining.

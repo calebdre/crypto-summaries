@@ -1,0 +1,1 @@
+SOILcoin uses Dagger algorithm to allow the creation of Smart Contracts and Dapps while still allowing Developers to create this features for a lower cost, when buying and transfering SOIL, than other cryptocurrencies that use similar technology (like Ethereum).

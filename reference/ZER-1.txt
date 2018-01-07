@@ -1,0 +1,1 @@
+Zero is fork of Zcash (Zcash is fork of Bitcoin).

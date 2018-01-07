@@ -1,0 +1,1 @@
+Bismuth is a Proof of Work cryptocurrency based on the SHA224 algorithm..  It comes with a set of dApps supplied as interpretation engines, which prevent blockchain bloat.

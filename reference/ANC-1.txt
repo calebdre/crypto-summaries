@@ -1,0 +1,1 @@
+Anoncoin is a cryptocurrency that supports the i2p darknet for transactions, providing a higher degree of anonimity.

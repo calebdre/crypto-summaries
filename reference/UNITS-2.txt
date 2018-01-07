@@ -1,0 +1,1 @@
+GameUnits is an Open Source Gaming currency created to revolutionize in-game purchases..  Gameunits is a forked version of Bitcoin using scrypt as a proof-of-work & proof-of-stake algorithm.

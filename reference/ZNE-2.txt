@@ -1,0 +1,1 @@
+ZoneCoin is a Proof of Work/Proof of Stake cryptocurrency that uses the Scrypt Algorithm..  It has a 64 second blocktime and 10% yearly staking rewards.

@@ -1,0 +1,1 @@
+Plutus is a decentralized payment application that allows users to make purchases with Bitcoin and Ether anywhere.

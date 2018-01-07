@@ -1,0 +1,1 @@
+vSlice is a token issued on the Ethereum blockchain..  It represents a piece in the ownership of the vDice gambling dapp and its revenue.

@@ -1,0 +1,1 @@
+ZayedCoin is a Proof of Work cryptocurrency that uses the Bitcoin hashing algorithm and has a 90 second blocktime.

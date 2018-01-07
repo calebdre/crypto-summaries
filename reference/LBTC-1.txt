@@ -1,0 +1,1 @@
+LiteBitcoin is a scrypt PoW cryptocurrency that aims to be the light version of Bitcoin.

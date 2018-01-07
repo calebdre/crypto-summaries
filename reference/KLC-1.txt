@@ -1,0 +1,1 @@
+KiloCoin is a Proof of Work cryptocurrency using the Scrypt algorithm.

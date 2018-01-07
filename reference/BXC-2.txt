@@ -1,0 +1,1 @@
+Bitcedi is a Proof of Work cryptocurrency, like Bitcoin..  It is a fork from the digitalnote project which is based on CryptoNote and anonymous technology and updated with unique untraceable encrypted messaging system and blockchain based deposits.

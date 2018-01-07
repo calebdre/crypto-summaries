@@ -1,0 +1,1 @@
+Maker DAO is a decentralized autonomous organization on the Ethereum blockchain seeking to minimize the price volatility of its own stable token Dai against the IMF’s currency basket SDR.

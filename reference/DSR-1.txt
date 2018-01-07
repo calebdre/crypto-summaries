@@ -1,0 +1,1 @@
+Desire is a Proof of Work cryptocurrency based on the Neoscrypt algorithm.

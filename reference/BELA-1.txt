@@ -1,0 +1,1 @@
+Belacoin is a Scrypt cryptocurrency, based on Litecoin.

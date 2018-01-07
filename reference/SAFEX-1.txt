@@ -1,0 +1,1 @@
+The Safe Exchange Platform allows the creation of digital assets and contracts, cryptographic data-storage and transfers.

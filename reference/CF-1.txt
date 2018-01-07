@@ -1,0 +1,1 @@
+Californium (CF) is a SHA256 Proof of Work cryptocurrency.

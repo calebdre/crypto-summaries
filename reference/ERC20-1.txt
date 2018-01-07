@@ -1,0 +1,1 @@
+ERC20 Index is a tokenized index of cryptocurrency which tracks and invests in the 20-top ERC20 tokens.

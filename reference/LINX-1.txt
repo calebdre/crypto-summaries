@@ -1,0 +1,1 @@
+Linx is a Proof of Work cryptocurrency based on the scrypt algorithm.

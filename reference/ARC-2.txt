@@ -1,0 +1,1 @@
+ArcticCoin is a PoW cryptocurrency based on the X11 algorithm..  It has a 60M supply.

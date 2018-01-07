@@ -1,0 +1,1 @@
+LeviarCoin is an open-source, secure, private and anonymous currency, based on CryptoNote technology.

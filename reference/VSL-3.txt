@@ -1,0 +1,1 @@
+vSlice is a token issued on the Ethereum blockchain..  It represents a piece in the ownership of the vDice gambling dapp and its revenue..  This token will issue dividends produced by the gambling fees charged on vDice, which is a fully decentralized version of SatoshiDICE for Ether betting.

@@ -1,0 +1,1 @@
+Gapcoin uses it's custom PoW algorithm: Prime Gaps..  Difficulty is adjusted every block, and there is also an halving every 420000 Blocks (about 2 years).

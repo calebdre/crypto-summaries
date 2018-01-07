@@ -1,0 +1,1 @@
+CarTaxi is a logistics platform for evacuating and transporting cars that integrates all tow trucks in a single application, combining geolocation with blockchain technologies .

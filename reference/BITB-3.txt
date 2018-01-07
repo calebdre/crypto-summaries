@@ -1,0 +1,1 @@
+BitBean is another alternative crypto currency..  Its Proof of Stake is different from other coins..  In addition to only giving all coins that have over 6 hours age only 6 hours of age in the PoS calculations, the blocks which are found are static blocks similar to PoW.

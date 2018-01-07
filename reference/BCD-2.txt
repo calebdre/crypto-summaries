@@ -1,0 +1,1 @@
+Bitcoin Diamond (BCD) is a fork of Bitcoin that will occur at the predetermined height of block 495866..  It is a PoW/PoS cryptocurrency based on X13 algorithm.

@@ -1,0 +1,1 @@
+Synergy is a peer-to-peer decentralized cryptocurrency that uses a dual-algorithm system to mine blocks.

@@ -1,0 +1,1 @@
+Centurion is a Proof of Work/Proof of Stake cryptocurrency that can process and confirm transactions in under 6 minutes and has a block size of 2 MB.

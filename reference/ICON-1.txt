@@ -1,0 +1,1 @@
+Iconic is a blockchain based application platform that wants to make blockchain application integration more attractive for new parties by simplifying integration processes and adding practical user funcionality.

@@ -1,0 +1,1 @@
+Etheroll is an provably fair Ethereum-based dice game with a 1% house fee.

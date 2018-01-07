@@ -1,0 +1,1 @@
+Storj is a decentralized cloud storage platform that allows anyone to rent their idle hard drive space and to earn a revenue by doing so..  Endusers can use Storj to store their files at competitive prices and within a p2p network that is secure from sever downtime, censorship and hacks.

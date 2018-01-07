@@ -1,0 +1,1 @@
+Synergy is a peer-to-peer decentralized cryptocurrency that uses a dual-algorithm system to mine blocks..  For the first 10 days, which contains the full PoW (proof of work) period, Synergy uses the X11 algorithm.

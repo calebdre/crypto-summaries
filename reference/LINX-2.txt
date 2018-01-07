@@ -1,0 +1,1 @@
+Linx is a Proof of Work cryptocurrency based on the scrypt algorithm..  It's designed to be used as an alternative payment mechanism for the eletronic music industry.

@@ -1,0 +1,1 @@
+There is one coin for each millimeter of covering distance from the Earth to the Moon..  Moon Coin has an increasing block reward reduction range, where in the first 100,000 blocks the reward can be between 0 and 1,000,000 coins, this then drops to 0-600,000 coins for the second 100,000 blocks and so on..  After block 384,400 all block rewards are fixed at 29531.

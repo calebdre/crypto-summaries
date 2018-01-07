@@ -1,0 +1,1 @@
+Solaris is a Hybrid PoW/PoS cryptocurrency based on the XEVAN algorithm.

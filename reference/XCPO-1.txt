@@ -1,0 +1,1 @@
+Copico is a PoS cryptocurrency based on the PoS algorithm.

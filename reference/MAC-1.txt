@@ -1,0 +1,1 @@
+Machinecoin is a free and decentralized peer-to-peer cryptocurrency that is completely open source and uses TimeTravel as a proof-of-work algorithm.

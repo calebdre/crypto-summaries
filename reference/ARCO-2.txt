@@ -1,0 +1,1 @@
+AquariusCoin is a PoW/PoS cryptocurrency, currently in the Proof of Stake phase..  It uses the Scrypt algorithm and has a 64 second block time.

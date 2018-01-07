@@ -1,0 +1,1 @@
+Onix is a Proof of Work cryptocurrency based on the X11 Algorithm.

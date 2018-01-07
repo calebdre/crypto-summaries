@@ -1,0 +1,1 @@
+BitCurrency is a Proof of Stake cryptocurrency..  It has a 64 second block time and uses Scrypt as its hashing algorithm.

@@ -1,0 +1,1 @@
+CORION Platform is hosted on the Ethereum Classic blockchain..  It consists of more separate smart contracts, implemented in Solidity language.

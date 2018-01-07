@@ -1,0 +1,1 @@
+PoSWallet is a PoW/PoS cryptocurrency using the Scrypt algorithm..  The PoSWallet service allows users to stake various cryptocurrencies in one single wallet.

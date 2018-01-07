@@ -1,0 +1,1 @@
+Pirl is a PoW cryptocurrency based on the Dagger algorithm.

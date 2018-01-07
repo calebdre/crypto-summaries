@@ -1,0 +1,1 @@
+ChronosCoin is a scrypt PoW/PoS hybrid cryptocurrency, created with an airdrop fair launch and designed to be used as the main currency in the PennyAuction.

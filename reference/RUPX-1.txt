@@ -1,0 +1,1 @@
+Rupaya is a Pow/PoS cryptocurrency based on the Scrypt algorithm.

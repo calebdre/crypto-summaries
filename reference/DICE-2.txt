@@ -1,0 +1,1 @@
+Etheroll is an provably fair Ethereum-based dice game with a 1% house fee..  The DICE token is an Ethereum-based token that gants its a share of the house bankroll generates via said dice game with its built-in 1% house edge.

@@ -1,0 +1,1 @@
+Patientory is a Ethereum -based decentralized medical record storage computing platform where Healthcare entities can secure private health information, rent computing power, servers and data centers and make their unused resources available through a unique private infrastructure.

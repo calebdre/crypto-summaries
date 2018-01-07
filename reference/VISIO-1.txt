@@ -1,0 +1,1 @@
+Visio is a video sharing platform leveraging the IPFS network as a decentralized database.

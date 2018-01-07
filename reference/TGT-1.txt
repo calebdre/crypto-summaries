@@ -1,0 +1,1 @@
+Target Coin is a tokenised long-short Cryptocurrency Fund which invests and trades in the CryptoCurrency market by utilizing machine learning and algorithmic trading strategies.

@@ -1,0 +1,1 @@
+PopularCoin is a PoW cryptocurrency based on the Scrypt algorithm.

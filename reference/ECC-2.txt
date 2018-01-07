@@ -1,0 +1,1 @@
+E-CurrencyCoin is a Proof of Work/Proof of Stake cryptocurrency, currently in the PoS stage..  ECC is based on the popular Scrypt algorithm.

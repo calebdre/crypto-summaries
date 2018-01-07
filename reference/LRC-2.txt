@@ -1,0 +1,1 @@
+Loopring is an open, multilateral token exchange protocol for decentralized exchange on the Ethereum blockchain..  Loopring is intended to serve as a common building block with open standards, driving interoperability among decentralized applications (DAPPs) that incorporate exchange functionality.

@@ -1,0 +1,1 @@
+BLOCKv is a shared protocol for the blockchain developer stack..  It enables the creation of smart digital objects (vAtoms) on different blockchains like Bitcoin, Ethereum and EON.

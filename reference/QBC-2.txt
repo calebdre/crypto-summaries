@@ -1,0 +1,1 @@
+Québecoin is a PoW/PoS cryptocurrency using the X11 algorithm..  It was launched in April 2014 and abandoned in the next few days.

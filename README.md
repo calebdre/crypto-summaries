@@ -2,7 +2,7 @@
 
 If you automate crypto currency trading, and send out reports, you might want a summary of what a coin does, is it a coin that's for advertising? Gaming? Paying coffee?
 
-This project tries to provide the simplest possible API to get a summary of a coin. Ideally this would be integrated in [coinmarketcap](https://coinmarketcap.com), but unfortunately that's not the case right now.
+This project tries to provide the simplest possible API to get a summary of a coin. Summaries come from [coinmarketcap](https://coinmarketcap.com/) and [cryptocompare](cryptocompare.com)
 
 Check out [krausefx.github.io/crypto-summaries](https://krausefx.github.io/crypto-summaries/) for a list of the available summaries.
 

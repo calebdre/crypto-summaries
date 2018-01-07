@@ -1,0 +1,1 @@
+Project Zephyr is a Bitshares-based remittance platform launched by Bitspark.

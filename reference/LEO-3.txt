@@ -1,0 +1,1 @@
+LEOcoin is a Proof of Stake cryptocurrency developed from Litecoin..  It uses the Scrypt-Jane algorithm and has a 5% premine..  LEOcoin aims at being an easy-to-use, pseudonymous cryptocurrency.

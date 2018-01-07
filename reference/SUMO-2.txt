@@ -1,0 +1,1 @@
+Sumokoin is a Proof of Stake cryptocurrency forked from Monero..  It is a privacy-driven cryptocurrency in which Ring Confidential Transactions (RingCT) are eliminated and the minimum transaction mixins is set to 12, thus providing a truely fungible cryptocurrency.

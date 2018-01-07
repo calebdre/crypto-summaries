@@ -1,0 +1,1 @@
+Gambit Crypto is a Scrypt coin that was crowd funded and ran with proof of work before switching to proof of stake.

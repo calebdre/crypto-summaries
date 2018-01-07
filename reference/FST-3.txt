@@ -1,0 +1,1 @@
+FastCoin (FST) is a fast coin with a block time of 12 seconds..  Confimations needed for transactions are 12 secs - one of the fastest out there..  There were originally 32 coins per block which halves every 12 months.

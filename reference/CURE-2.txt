@@ -1,0 +1,1 @@
+Curecoin is a PoW PoS hybrid altcoin that allows both ASIC mining and CPU & GPU mining to play a part in creating coins - as they call it mining and folding..  The added benefit behind the coin is that computer power is used to test protein folding and create a valuable scientific knowledge base.

@@ -1,0 +1,1 @@
+Burst uses a new algorithm for proof of hdd capacity (POC) mining..  Miners pre-generate chunks of data known as 'plots' which are then saved to disk..  Taking NXT's great PoS code, and turning it into PoC.

@@ -1,2 +1,4 @@
 .keys
 .DS_STORE
+cache
+json

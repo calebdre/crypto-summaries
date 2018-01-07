@@ -1,0 +1,1 @@
+PlexCoin is an ERC-20 token based on the Ethereum blockchain.

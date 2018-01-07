@@ -1,0 +1,1 @@
+VRC is designed to reduce the PoW phase and enter PoS phase quickly..  With a steady block reward and block time of sixty seconds, the PoW phase is designed to finish after the first few weeks of launch - 10/05/2014.

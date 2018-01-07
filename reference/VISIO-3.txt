@@ -1,0 +1,1 @@
+Visio is a video sharing platform leveraging the IPFS network as a decentralized database..  The team has plans to create an integrated wallet player, a blockchain IPFS hash storage system, and more..  The VISIO token is the underlying asset of the platform, a PoW/PoS cryptocurrency based on the X13 algorithm.

@@ -1,0 +1,1 @@
+HomeBlockCoin is an hybrid PoW/PoS cryptocurrency based on the X11 algorithm.

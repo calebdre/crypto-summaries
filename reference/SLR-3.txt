@@ -1,0 +1,1 @@
+SolarCoin (SOLAR) is a coin to increase the adoption and reward photovoltaic power production..  The coin is a scrypt Proof of Work crypto currency with a block time of 60 seconds..  The initial 100 block reward halves every year and the difficulty adjusts every 1440 blocks.

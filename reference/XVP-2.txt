@@ -1,0 +1,1 @@
+VirtaCoinPlus is a PoW/PoS cryptocurrency based on the X11 algorithm..  It's the newer version of VirtaCoin which was launched back in July 1, 2014.

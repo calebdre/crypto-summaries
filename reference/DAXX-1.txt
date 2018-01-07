@@ -1,0 +1,1 @@
+DaxxCoin is a PoW cryptocurrency based on Ethash.

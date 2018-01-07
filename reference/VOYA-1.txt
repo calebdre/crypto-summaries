@@ -1,0 +1,1 @@
+Voyacoin is a Proof of Work cryptocurrency that uses the Pluck-128 algoirthm and allows users to send and recieve transactions almost intantly.

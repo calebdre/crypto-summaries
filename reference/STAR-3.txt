@@ -1,0 +1,1 @@
+Starbase is a blockchain-based crowdfunding platform..  It is built on the Ethereum network, allowing users to launch their fundraising campaigns, sell issued tokens and pay team members..  The STAR token can be used for services within the platform and it is also used to receive rewards from project revenue in the form of Ether and Ethereum-based tokens.

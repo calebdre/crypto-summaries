@@ -1,0 +1,1 @@
+Plutus is a decentralized payment application that allows users to make purchases with Bitcoin and Ether anywhere..  Users are simply required to load the app with BTC or ETH and hold the phone over the card reader for the payment to complete..  Plutons are Ethereum-based tokens that can be earned as a reward for shopping with Plutus.

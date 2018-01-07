@@ -1,0 +1,1 @@
+FonzieCoin is a Fonzie themed cryptocurrency..  It had a fair Proof of Work launch and uses the SHA256.

@@ -1,0 +1,1 @@
+NetBit is a PoW/PoS cryptocurrency that uses the popular Scrypt algorithm.

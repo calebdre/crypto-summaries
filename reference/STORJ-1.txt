@@ -1,0 +1,1 @@
+Storj is a decentralized cloud storage platform that allows anyone to rent their idle hard drive space and to earn a revenue by doing so.

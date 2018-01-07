@@ -1,0 +1,1 @@
+CryptoJack is a PoW/PoS hybrid cryptocurrency focused on online gambling.

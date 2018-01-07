@@ -1,0 +1,1 @@
+NavCoin (NAV) is a privacy-driven PoW/PoS hybrid cryptocurrency..  NAV uses the x13 hashing algorithm.

@@ -1,0 +1,1 @@
+Zero is fork of Zcash (Zcash is fork of Bitcoin)..  It has the security of Bitcoin, the privacy of Zcash and few other improvements.

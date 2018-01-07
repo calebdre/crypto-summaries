@@ -1,0 +1,1 @@
+AvonCoin is a pure PoS coin which generates coins through PoS blocks..  Except the first block where it generates the initial 100 million coins, no PoW mining will get any coins.

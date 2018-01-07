@@ -1,0 +1,1 @@
+NewYorkCoin is a PoW cryptocurrency based on the popular Scrypt algorithm.

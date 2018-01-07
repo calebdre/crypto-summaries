@@ -1,0 +1,1 @@
+Californium (CF) is a SHA256 Proof of Work cryptocurrency..  It's name is inspired in the most expensive metal on the planet, Californium.

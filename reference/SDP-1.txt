@@ -1,0 +1,1 @@
+SydPakCoin is a PoW/PoS cryptocurrency using the X13 algorithm.

@@ -1,0 +1,1 @@
+VIVO is a decentralized cryptocurrency, featuring a Masternode network that provides near-instant payments and anonymous transactions..  VIVO uses the NeoScrypt Proof of Work algorithm.

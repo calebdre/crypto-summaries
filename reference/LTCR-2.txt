@@ -1,0 +1,1 @@
+Litecred is a PoW/PoS cryptocurrency with the characteristic of self-funded development, via block subsidy of 10% for each minted block, which guarantees a small and continuos flow to the developers, in order to mantain the project active..  There is no developer premine at launch.

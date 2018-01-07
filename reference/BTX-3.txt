@@ -1,0 +1,1 @@
+Bitcore is a Bitcoin-based cryptocurrency created through a snapshot and airdrop process..  Bitcore has 10 MB blocks with Segwit enabled which allows for the network to handle about 17.. 6 billion transactions per year.

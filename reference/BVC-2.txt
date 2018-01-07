@@ -1,0 +1,1 @@
+BeaverCoin is a Proof of Work cryptocurrency based on the scrypt algorithm..  It has a 0% premine and halves every 210,000 blocks.

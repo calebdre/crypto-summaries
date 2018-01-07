@@ -1,0 +1,1 @@
+ZClassic is a cryptocurrency forked from Zcash..  It has the exact same features as ZEC, including its private transactions protected by zero knowledge proofs and its Equihash Proof of Stake mining, but with no founder's reward.

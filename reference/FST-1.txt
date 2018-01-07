@@ -1,0 +1,1 @@
+FastCoin (FST) is a fast coin with a block time of 12 seconds.

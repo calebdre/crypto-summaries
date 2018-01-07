@@ -1,0 +1,1 @@
+Revain is a platform that will leverage the Ethereum blockchain to implement a review mechanism that doesn't require a third-party to be involved.

@@ -1,0 +1,1 @@
+MinCoin is a peer-to-peer cryptocurrency using scrypt as a proof-of-work algorithm.

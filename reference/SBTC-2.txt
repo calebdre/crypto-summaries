@@ -1,0 +1,1 @@
+Super Bitcoin is a fork of the Bitcoin blockchain that took place at block height 498,888..  The Super Bitcoin will feature smart contracts, the zero-knowledge proofs and a blocksize of 8MB.

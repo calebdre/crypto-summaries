@@ -1,0 +1,1 @@
+Goldmaxcoin is a lite version of Bitcoin using Scrypt as a Proof of Work algorithm.

@@ -1,0 +1,1 @@
+STRESScoin is a PoW/PoS hybrid that wil change to full PoS..  Designed to be a test cryptocurrency with the purpose of figuring out possible problems and solutions regarding the coin's current model STS will undergo various stress tests until conclusive results and met, at which point STRESScoin will arrange a swap for STS second generation coin.

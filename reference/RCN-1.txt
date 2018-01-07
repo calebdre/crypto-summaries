@@ -1,0 +1,1 @@
+RCN is a global credit network based on cosigned smart contracts that connects lenders and borrowers located anywhere in the world and on any currency.

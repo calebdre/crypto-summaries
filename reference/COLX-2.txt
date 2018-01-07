@@ -1,0 +1,1 @@
+ColossusCoinXT is a decentralized, open-source, and energy-efficient transaction platform..  It is based on the popular PIVX Source Code with a fixed PoS block reward.

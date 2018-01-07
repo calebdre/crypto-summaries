@@ -1,0 +1,1 @@
+Neuro is a scientific-technical project uniting scientists, engineers and programmers..  From the first stages of work, we will be engaged in the development of new architectures and algorithms of neural networks..  Someday we will undoubtedly enter the annual ImageNet Challenge contest to compete with such giants as GoogLeNet Inception and Microsoft ResNet.

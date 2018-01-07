@@ -1,0 +1,1 @@
+Lazarus is a delayed Proof of Work crypto-currency and decentralized application platform, written entirely in JavaScript..  Lazarus is designed for the needs of business and organisations that want to develop on the blockchain.

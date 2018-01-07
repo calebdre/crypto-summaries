@@ -1,0 +1,1 @@
+HTML Coin is a Proof of Work/Proof of Stake cryptocurrency based on the X15 algorithm which is designed to be adoptable for future applications.

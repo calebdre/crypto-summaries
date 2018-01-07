@@ -1,0 +1,1 @@
+Straks is a PoW cryptocurrency based on the Lev2rev2 algorithm.

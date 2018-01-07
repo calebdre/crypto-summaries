@@ -1,0 +1,1 @@
+CampusCoin is a PoW Scrypt cryptocurrency that aims to be used by college students worldwide for instant transactions between peers at their schools.

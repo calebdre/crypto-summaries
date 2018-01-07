@@ -1,0 +1,1 @@
+Valtor is a cryptocurrency that focuses on stability, efficiency and long term scaling implementing a Lightning Network like feature, providing viable transaction privacy without bloating the blockchain and eliminating the drawbacks of longer block time..  VLT has a 30 minute block tiem and i t uses the custom hashing algorithm Thor's secret.

@@ -1,0 +1,1 @@
+BitcoinZ is a proof of work cryptocurrency based on the Equihash algorithm.

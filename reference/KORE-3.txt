@@ -1,0 +1,1 @@
+Kore (KORE) is an x13 algorithm alternative crypto currency..  The block time is 60 seconds - the PoS rate is 8% and the PoW phase lasts 7 days..  There was a premine of 0.

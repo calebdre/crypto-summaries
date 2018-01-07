@@ -1,0 +1,1 @@
+LeviarCoin is an open-source, secure, private and anonymous currency, based on CryptoNote technology..  The cryptonote technology provides LeviarCoin with untraceable payments, unlinkable transactions, double-spending proof, fair proof of work and blockchain analysis resistance..  The mining rate will release around 40% of the maximum supply within the first three years.

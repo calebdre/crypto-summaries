@@ -1,0 +1,1 @@
+Confido is an escrow payment solution featuring a shipment tracking system..  CFD is an Ethereum-based ERC20 token powering Confido's app.

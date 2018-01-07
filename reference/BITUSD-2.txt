@@ -1,0 +1,1 @@
+bitUSD is a market pegged asset (MPA) issued on the Bitshares platform, these assets are known as bitassets or smartcoins..  Smartcoins always have 1 00% or more of its value backed by BitShares (BTS), and can be redeemed for it at any time.

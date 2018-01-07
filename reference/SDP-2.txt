@@ -1,0 +1,1 @@
+SydPakCoin is a PoW/PoS cryptocurrency using the X13 algorithm..  SDP plans to build many applications for the coin to be used on, like Strip Dice, an Auction Site, Mining Rig Rentals, and a PayPerClick (PCC) Site.

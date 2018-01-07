@@ -1,0 +1,1 @@
+DomRaider network is an open-source blockchain dedicated to the decentralization of auctions in real time.

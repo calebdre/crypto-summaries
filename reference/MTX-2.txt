@@ -1,0 +1,1 @@
+Matryx is a decentralized platform created to make online collaboration more efficient through a a bounty system, a library of digital assets, and a marketplace..  In the platform, users can post problems/jobs, along with a bounty for their solution, allowing bounty hunters in the platform to complete the bounty in collaboration and to share the rewards.

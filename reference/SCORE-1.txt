@@ -1,0 +1,1 @@
+Scorecoin is a Proof of Work cryptocurrency based on the Scrypt algorithm.
