@@ -43,11 +43,11 @@ for f in reference_files:
 
 for key in sorted(reference_file_map.keys()):
 	links = ["<a target='_blank' href='" + get_file(key, lambda: "-" + line) + "'>" + line + "</a>" for line in reference_file_map[key]]
-
+	
 	if len(reference_file_map[key]) > 1:
 		generate_all_summaries_file(key, reference_file_map[key])
 		links.append("<a target='_blank' href='" + get_file(key) + "'>all</a>")
-
+	links.append("<a href='https://s3.amazonaws.com/crypto-summaries/" + key + ".json'>json</a>")
 	links_stirng = "&nbsp;".join(links)
 	output_file_content.append("<li>" + key + " (" + links_stirng + ")</li>")
 

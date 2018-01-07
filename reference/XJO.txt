@@ -1,4 +1,3 @@
-Joulecoin is crypto currency with quick confirmations and transaction comments
-Joulecoin is crypto currency with quick confirmations and transaction comments.  Exponential moving average based difficulty retargeting
-Joulecoin is crypto currency with quick confirmations and transaction comments.  Exponential moving average based difficulty retargeting.  The coin is a standard SHA-256 coin with a 45 second block time, a minimum reward of 0
-Joulecoin is crypto currency with quick confirmations and transaction comments.  Exponential moving average based difficulty retargeting.  The coin is a standard SHA-256 coin with a 45 second block time, a minimum reward of 0. 
+Joulecoin is crypto currency with quick confirmations and transaction comments.
+Joulecoin is crypto currency with quick confirmations and transaction comments..  Exponential moving average based difficulty retargeting.
+Joulecoin is crypto currency with quick confirmations and transaction comments..  Exponential moving average based difficulty retargeting..  The coin is a standard SHA-256 coin with a 45 second block time, a minimum reward of 0.

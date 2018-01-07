@@ -1,4 +1,2 @@
-Live Sumokoin prices from all markets and SUMO coin market Capitalization
-Live Sumokoin prices from all markets and SUMO coin market Capitalization.  Stay up to date with the latest Sumokoin price movements and forum discussion
-Live Sumokoin prices from all markets and SUMO coin market Capitalization.  Stay up to date with the latest Sumokoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live Sumokoin prices from all markets and SUMO coin market Capitalization.  Stay up to date with the latest Sumokoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+Sumokoin is a Proof of Stake cryptocurrency forked from Monero.
+Sumokoin is a Proof of Stake cryptocurrency forked from Monero..  It is a privacy-driven cryptocurrency in which Ring Confidential Transactions (RingCT) are eliminated and the minimum transaction mixins is set to 12, thus providing a truely fungible cryptocurrency.

@@ -1,4 +1,3 @@
-BlakeCoin is based on the Blake-256 algorithm
-BlakeCoin is based on the Blake-256 algorithm.  The coin is merge mined and has a block reward, that varies based on the difficulty (25 coins + inflation(square root(difficulty * block height)
-BlakeCoin is based on the Blake-256 algorithm.  The coin is merge mined and has a block reward, that varies based on the difficulty (25 coins + inflation(square root(difficulty * block height).  The block time is 3 minutes and the block retargetting occurs every twenty successful hashing attempts
-BlakeCoin is based on the Blake-256 algorithm.  The coin is merge mined and has a block reward, that varies based on the difficulty (25 coins + inflation(square root(difficulty * block height).  The block time is 3 minutes and the block retargetting occurs every twenty successful hashing attempts. 
+BlakeCoin is based on the Blake-256 algorithm.
+BlakeCoin is based on the Blake-256 algorithm..  The coin is merge mined and has a block reward, that varies based on the difficulty (25 coins + inflation(square root(difficulty * block height).
+BlakeCoin is based on the Blake-256 algorithm..  The coin is merge mined and has a block reward, that varies based on the difficulty (25 coins + inflation(square root(difficulty * block height)..  The block time is 3 minutes and the block retargetting occurs every twenty successful hashing attempts.

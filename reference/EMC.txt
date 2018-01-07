@@ -1,2 +1,3 @@
-Emercoin combines POS + POW algorithms to process transactions on its blockchain, with an emphasis on POS
-Emercoin combines POS + POW algorithms to process transactions on its blockchain, with an emphasis on POS. 
+Hybrid of NameCoin and PPCoin.
+Hybrid of NameCoin and PPCoin..  More focused on the production of coins by PoS than PoW.
+Hybrid of NameCoin and PPCoin..  More focused on the production of coins by PoS than PoW..  Mining has a bonus on the interval 1-512 difficulty for high initial issue of coins.

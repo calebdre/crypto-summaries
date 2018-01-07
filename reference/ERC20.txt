@@ -1,4 +1,2 @@
-Live ERC20 Index prices from all markets and ERC20 coin market Capitalization
-Live ERC20 Index prices from all markets and ERC20 coin market Capitalization.  Stay up to date with the latest ERC20 Index price movements and forum discussion
-Live ERC20 Index prices from all markets and ERC20 coin market Capitalization.  Stay up to date with the latest ERC20 Index price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live ERC20 Index prices from all markets and ERC20 coin market Capitalization.  Stay up to date with the latest ERC20 Index price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+ERC20 Index is a tokenized index of cryptocurrency which tracks and invests in the 20-top ERC20 tokens.
+ERC20 Index is a tokenized index of cryptocurrency which tracks and invests in the 20-top ERC20 tokens..  Weekly, profits are distributed in Ether between the top-20 holders of a ERC20 token.

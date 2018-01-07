@@ -1,4 +1,2 @@
-Live BitcoinZ prices from all markets and BTCZ coin market Capitalization
-Live BitcoinZ prices from all markets and BTCZ coin market Capitalization.  Stay up to date with the latest BitcoinZ price movements and forum discussion
-Live BitcoinZ prices from all markets and BTCZ coin market Capitalization.  Stay up to date with the latest BitcoinZ price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live BitcoinZ prices from all markets and BTCZ coin market Capitalization.  Stay up to date with the latest BitcoinZ price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+BitcoinZ is a proof of work cryptocurrency based on the Equihash algorithm.
+BitcoinZ is a proof of work cryptocurrency based on the Equihash algorithm..  It also leverages zk-snarks to bring anonymous transactions.

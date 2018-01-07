@@ -1,4 +1,2 @@
-Live Super Bitcoin prices from all markets and SBTC coin market Capitalization
-Live Super Bitcoin prices from all markets and SBTC coin market Capitalization.  Stay up to date with the latest Super Bitcoin price movements and forum discussion
-Live Super Bitcoin prices from all markets and SBTC coin market Capitalization.  Stay up to date with the latest Super Bitcoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live Super Bitcoin prices from all markets and SBTC coin market Capitalization.  Stay up to date with the latest Super Bitcoin price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+Super Bitcoin is a fork of the Bitcoin blockchain that took place at block height 498,888.
+Super Bitcoin is a fork of the Bitcoin blockchain that took place at block height 498,888..  The Super Bitcoin will feature smart contracts, the zero-knowledge proofs and a blocksize of 8MB.

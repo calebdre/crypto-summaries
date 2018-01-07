@@ -1,4 +1,3 @@
-Live ZClassic prices from all markets and ZCL coin market Capitalization
-Live ZClassic prices from all markets and ZCL coin market Capitalization.  Stay up to date with the latest ZClassic price movements and forum discussion
-Live ZClassic prices from all markets and ZCL coin market Capitalization.  Stay up to date with the latest ZClassic price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell
-Live ZClassic prices from all markets and ZCL coin market Capitalization.  Stay up to date with the latest ZClassic price movements and forum discussion.  Check out our snapshot charts and see when there is an opportunity to buy or sell. 
+ZClassic is a cryptocurrency forked from Zcash.
+ZClassic is a cryptocurrency forked from Zcash..  It has the exact same features as ZEC, including its private transactions protected by zero knowledge proofs and its Equihash Proof of Stake mining, but with no founder's reward.
+ZClassic is a cryptocurrency forked from Zcash..  It has the exact same features as ZEC, including its private transactions protected by zero knowledge proofs and its Equihash Proof of Stake mining, but with no founder's reward..  This founder's reward is currently deducted from mined zcash blocks (20% of all block rewards during the first four years of mining which will amount to 10% of the total zcash supply).

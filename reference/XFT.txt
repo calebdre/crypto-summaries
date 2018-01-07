@@ -1,0 +1,2 @@
+Footy Cash is a Proof of Work cryptocurrency based on the Scrypt algorithm.
+Footy Cash is a Proof of Work cryptocurrency based on the Scrypt algorithm..  XFT features a network of masternodes.
